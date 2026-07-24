@@ -10,4 +10,3 @@ Rapport Power BI interactif conçu pour présenter mon parcours professionnel, m
 
 ## Technique
 * **Outil :** Power BI Desktop.
-* **Design :** Orienté lisibilité et navigation fluide.
