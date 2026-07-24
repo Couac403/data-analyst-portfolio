@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+
+  - name: openclassrooms
+    schema: raw
+    tables:
+
+      - name: students
+        description: "Données des étudiants inscrits (source : OpenClassrooms)."
+
+      - name: population
+        description: "Population recensée par région française (source : INSEE)."
+
+      - name: regions
+        description: "Table de correspondance des régions (source : INSEE)."
