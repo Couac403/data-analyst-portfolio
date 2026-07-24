@@ -9,5 +9,5 @@ Synthèse d'études et de suivis des outils et méthodes liés à la data analys
 
 ## Technique
 * **Outil :** Power BI Desktop
-* **Langages :** DAX, Power Query
+* **Langage :** DAX
 * **Design :** Orienté lisibilité
