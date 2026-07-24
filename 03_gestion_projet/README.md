@@ -3,7 +3,7 @@
 ## Présentation
 Cadrage fonctionnel et méthodologique pour l'élaboration d'un portfolio adapté à une candidature professionnelle.
 
-## Documentation :
+## Documentation
 * Besoins métiers d'Aéroworld : [Lire](https://github.com/user-attachments/files/30355336/besoins_aeroworld.pdf)
 * Cahier des charges du projet : [Lire](https://github.com/user-attachments/files/30355368/cdc_portfolio.pdf)
 * Dashboard projet (Gantt et tableau des coûts) :
