@@ -1,0 +1,15 @@
+select
+    concat(p.age_group_clean,p.gender,r.region,p.year) as group_id,
+    r.region,
+    p.gender,
+    p.age_group_clean,
+    p.year,
+    sum(p.total_population) as total_population
+from {{ref('int_population_enriched')}} as p
+left join {{ref('int_regions_enriched')}} as r
+    on p.geo_id = r.geo_id
+group by group_id,
+    r.region,
+    p.gender,
+    p.age_group_clean,
+    p.year

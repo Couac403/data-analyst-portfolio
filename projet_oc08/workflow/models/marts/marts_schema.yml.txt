@@ -1,0 +1,18 @@
+version: 2
+
+models:
+
+  - name: dim_population_by_region # agrégation volontaire des DROM sous une seule catégorie, afin de correspondre aux données OpenClassrooms
+    columns:
+    
+      - name: group_id
+        description: "Identifiant du groupe sociodémographique."
+        tests:
+          - unique
+
+  - name: fct_students_by_population # table finale pour le traitement visuel des données
+    description: "Profil sociodémographique des étudiants Data d'OpenClassrooms."
+    columns:
+
+      - name: prop_students_100k
+        description: "Proportion d'étudiant OpenClassrooms pour 100 000 habitants."

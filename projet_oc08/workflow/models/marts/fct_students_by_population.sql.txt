@@ -1,0 +1,11 @@
+select
+    s.age_group,
+    s.gender,
+    s.region,
+    s.year,
+    s.total_students,
+    p.total_population,
+    (s.total_students/p.total_population)*100000 as prop_students_100k
+from {{ref('int_students_enriched')}} as s
+left join {{ref('dim_population_by_region')}} as p
+    on s.group_id = p.group_id
