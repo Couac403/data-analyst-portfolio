@@ -8,5 +8,5 @@ Synthèse d'études et de suivis des outils et méthodes liés à la data analys
 * `veille_pbi.pdf` : Version statique imprimable.
 
 ## Technique
-* **Outil :** Power BI Desktop
-* **Langage :** DAX
+* **Outil :** Power BI Desktop.
+* **Langage :** DAX.
