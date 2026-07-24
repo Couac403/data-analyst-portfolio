@@ -9,8 +9,6 @@ Cadrage fonctionnel et méthodologique pour l'élaboration d'un portfolio adapt�
 * Dashboard projet (Gantt et tableau des coûts) : 
 >
 >![gantt.pdf](https://github.com/user-attachments/files/30355402/gantt.pdf)
->
-> [Accéder aux sources et détails du projet](./03_gestion_projet/)
 > 
 ## Contenu du dossier
 * `besoins_aeroworld.pdf` : Expression et analyse des besoins métiers de l'employeur.
