@@ -1,0 +1,863 @@
+﻿AGE_GROUP,GENDER,REGION,YEAR,TOTAL_STUDENTS,TOTAL_POPULATION,PROP_STUDENTS_100K
+30-34 ans,other,île-de-france,2025,7,,
+25-29 ans,other,occitanie,2024,3,,
+35-39 ans,other,hauts-de-france,2022,5,,
+30-34 ans,other,centre-val de loire,2023,2,,
+35-39 ans,other,drom,2025,1,,
+30-34 ans,other,île-de-france,2024,10,,
+45-49 ans,other,normandie,2024,1,,
+40-44 ans,other,île-de-france,2024,8,,
+40-44 ans,other,provence-alpes-côte d'azur,2022,8,,
+40-44 ans,other,nouvelle-aquitaine,2023,3,,
+40-44 ans,other,nouvelle-aquitaine,2022,7,,
+45-49 ans,other,hauts-de-france,2022,4,,
+25-29 ans,other,île-de-france,2024,2,,
+25-29 ans,other,île-de-france,2025,8,,
+35-39 ans,other,nouvelle-aquitaine,2023,3,,
+50-54 ans,other,grand est,2023,1,,
+55-59 ans,other,provence-alpes-côte d'azur,2022,1,,
+25-29 ans,other,centre-val de loire,2023,2,,
+40-44 ans,other,auvergne-rhône-alpes,2024,2,,
+25-29 ans,other,nouvelle-aquitaine,2023,3,,
+40-44 ans,other,occitanie,2024,1,,
+35-39 ans,other,provence-alpes-côte d'azur,2023,2,,
+35-39 ans,other,centre-val de loire,2022,5,,
+35-39 ans,other,provence-alpes-côte d'azur,2022,6,,
+35-39 ans,other,provence-alpes-côte d'azur,2024,2,,
+35-39 ans,other,occitanie,2024,1,,
+60 ans ou plus,other,île-de-france,2023,5,,
+25-29 ans,other,occitanie,2022,5,,
+20-24 ans,other,île-de-france,2022,4,,
+45-49 ans,other,île-de-france,2024,1,,
+35-39 ans,other,normandie,2024,2,,
+25-29 ans,other,provence-alpes-côte d'azur,2024,1,,
+30-34 ans,other,nouvelle-aquitaine,2023,7,,
+25-29 ans,other,bretagne,2022,3,,
+50-54 ans,other,auvergne-rhône-alpes,2023,2,,
+60 ans ou plus,other,occitanie,2022,2,,
+45-49 ans,other,grand est,2025,1,,
+35-39 ans,other,auvergne-rhône-alpes,2024,1,,
+50-54 ans,other,pays de la loire,2022,4,,
+30-34 ans,other,pays de la loire,2025,1,,
+35-39 ans,other,bretagne,2024,1,,
+50-54 ans,other,hauts-de-france,2023,3,,
+30-34 ans,other,bretagne,2022,5,,
+60 ans ou plus,other,bretagne,2025,1,,
+50-54 ans,other,île-de-france,2025,4,,
+50-54 ans,other,grand est,2024,1,,
+30-34 ans,other,hauts-de-france,2023,5,,
+50-54 ans,other,grand est,2025,2,,
+30-34 ans,other,bourgogne-franche-comté,2023,1,,
+20-24 ans,other,grand est,2025,1,,
+25-29 ans,other,île-de-france,2022,62,,
+40-44 ans,other,hauts-de-france,2022,8,,
+30-34 ans,other,bourgogne-franche-comté,2022,4,,
+55-59 ans,other,île-de-france,2023,12,,
+25-29 ans,other,bretagne,2024,1,,
+55-59 ans,other,provence-alpes-côte d'azur,2023,1,,
+40-44 ans,other,île-de-france,2025,1,,
+25-29 ans,other,auvergne-rhône-alpes,2023,6,,
+35-39 ans,other,grand est,2024,3,,
+40-44 ans,other,normandie,2023,1,,
+30-34 ans,other,occitanie,2024,1,,
+30-34 ans,other,île-de-france,2022,90,,
+35-39 ans,other,grand est,2023,2,,
+45-49 ans,other,pays de la loire,2023,1,,
+35-39 ans,other,occitanie,2023,2,,
+40-44 ans,other,auvergne-rhône-alpes,2025,1,,
+20-24 ans,other,hauts-de-france,2023,1,,
+35-39 ans,other,nouvelle-aquitaine,2024,2,,
+45-49 ans,other,grand est,2022,2,,
+35-39 ans,other,île-de-france,2022,69,,
+30-34 ans,other,normandie,2023,3,,
+50-54 ans,other,île-de-france,2024,3,,
+55-59 ans,other,grand est,2023,1,,
+30-34 ans,other,grand est,2022,11,,
+55-59 ans,other,hauts-de-france,2022,2,,
+35-39 ans,other,bretagne,2022,3,,
+40-44 ans,other,normandie,2022,1,,
+40-44 ans,other,pays de la loire,2022,5,,
+45-49 ans,other,centre-val de loire,2023,1,,
+30-34 ans,other,normandie,2022,5,,
+30-34 ans,other,drom,2022,1,,
+35-39 ans,other,nouvelle-aquitaine,2025,1,,
+50-54 ans,other,hauts-de-france,2022,4,,
+30-34 ans,other,île-de-france,2023,46,,
+25-29 ans,other,auvergne-rhône-alpes,2022,11,,
+35-39 ans,other,grand est,2022,9,,
+20-24 ans,other,nouvelle-aquitaine,2023,1,,
+45-49 ans,other,grand est,2024,3,,
+40-44 ans,other,provence-alpes-côte d'azur,2023,3,,
+30-34 ans,other,auvergne-rhône-alpes,2022,23,,
+55-59 ans,other,nouvelle-aquitaine,2022,1,,
+45-49 ans,other,île-de-france,2025,3,,
+35-39 ans,other,provence-alpes-côte d'azur,2025,2,,
+45-49 ans,other,pays de la loire,2022,3,,
+25-29 ans,other,occitanie,2023,8,,
+45-49 ans,other,île-de-france,2022,23,,
+25-29 ans,other,hauts-de-france,2023,2,,
+30-34 ans,other,normandie,2024,1,,
+55-59 ans,other,auvergne-rhône-alpes,2023,1,,
+35-39 ans,other,pays de la loire,2023,6,,
+20-24 ans,other,auvergne-rhône-alpes,2025,1,,
+45-49 ans,other,occitanie,2022,4,,
+55-59 ans,other,auvergne-rhône-alpes,2024,1,,
+60 ans ou plus,other,île-de-france,2022,11,,
+30-34 ans,other,hauts-de-france,2024,2,,
+25-29 ans,other,provence-alpes-côte d'azur,2023,5,,
+45-49 ans,other,nouvelle-aquitaine,2022,6,,
+35-39 ans,other,île-de-france,2024,11,,
+40-44 ans,other,pays de la loire,2023,1,,
+35-39 ans,other,normandie,2023,4,,
+50-54 ans,other,auvergne-rhône-alpes,2022,6,,
+55-59 ans,other,occitanie,2022,2,,
+30-34 ans,other,provence-alpes-côte d'azur,2023,6,,
+35-39 ans,other,grand est,2025,1,,
+30-34 ans,other,centre-val de loire,2024,1,,
+45-49 ans,other,normandie,2023,1,,
+30-34 ans,other,nouvelle-aquitaine,2022,8,,
+30-34 ans,other,occitanie,2022,17,,
+25-29 ans,other,île-de-france,2023,47,,
+30-34 ans,other,hauts-de-france,2022,10,,
+30-34 ans,other,pays de la loire,2022,7,,
+30-34 ans,other,occitanie,2023,6,,
+30-34 ans,other,pays de la loire,2023,3,,
+25-29 ans,other,grand est,2023,4,,
+35-39 ans,other,bretagne,2023,3,,
+35-39 ans,other,normandie,2022,3,,
+25-29 ans,other,grand est,2022,7,,
+30-34 ans,other,grand est,2024,1,,
+45-49 ans,other,nouvelle-aquitaine,2023,1,,
+25-29 ans,other,drom,2025,1,,
+60 ans ou plus,other,nouvelle-aquitaine,2022,2,,
+30-34 ans,other,provence-alpes-côte d'azur,2022,11,,
+20-24 ans,other,nouvelle-aquitaine,2022,1,,
+45-49 ans,other,normandie,2025,1,,
+50-54 ans,other,bretagne,2022,1,,
+40-44 ans,other,bretagne,2023,4,,
+50-54 ans,other,occitanie,2022,1,,
+40-44 ans,other,drom,2022,1,,
+45-49 ans,other,hauts-de-france,2024,1,,
+25-29 ans,other,nouvelle-aquitaine,2022,10,,
+25-29 ans,other,centre-val de loire,2022,2,,
+50-54 ans,other,nouvelle-aquitaine,2023,3,,
+50-54 ans,other,grand est,2022,2,,
+35-39 ans,other,drom,2023,1,,
+40-44 ans,other,occitanie,2023,3,,
+45-49 ans,other,occitanie,2025,1,,
+55-59 ans,other,grand est,2025,1,,
+60 ans ou plus,other,nouvelle-aquitaine,2025,1,,
+30-34 ans,other,bretagne,2024,1,,
+35-39 ans,other,normandie,2025,1,,
+35-39 ans,other,auvergne-rhône-alpes,2022,12,,
+45-49 ans,other,auvergne-rhône-alpes,2022,6,,
+50-54 ans,other,hauts-de-france,2024,1,,
+35-39 ans,m,centre-val de loire,2023,1,73525.00,1.400000
+25-29 ans,f,île-de-france,2023,25,439877.00,5.700000
+45-49 ans,f,drom,2024,1,71912.00,1.400000
+45-49 ans,f,bretagne,2024,2,103930.00,1.900000
+55-59 ans,m,bretagne,2023,1,112115.00,0.900000
+25-29 ans,m,nouvelle-aquitaine,2022,9,150388.00,6.000000
+55-59 ans,f,île-de-france,2025,1,385400.00,0.300000
+45-49 ans,m,occitanie,2025,5,181237.00,2.800000
+45-49 ans,m,bourgogne-franche-comté,2022,2,86369.00,2.300000
+50-54 ans,f,occitanie,2023,1,207916.00,0.500000
+30-34 ans,m,drom,2022,3,56809.00,5.300000
+30-34 ans,m,normandie,2025,4,91734.00,4.400000
+30-34 ans,f,auvergne-rhône-alpes,2024,1,251882.00,0.400000
+40-44 ans,m,hauts-de-france,2025,4,191881.00,2.100000
+60 ans ou plus,m,auvergne-rhône-alpes,2024,2,1005120.00,0.200000
+30-34 ans,f,occitanie,2024,6,175999.00,3.400000
+50-54 ans,m,drom,2022,2,68280.00,2.900000
+40-44 ans,m,centre-val de loire,2022,5,75290.00,6.600000
+30-34 ans,f,nouvelle-aquitaine,2024,3,169053.00,1.800000
+25-29 ans,m,grand est,2023,6,156718.00,3.800000
+50-54 ans,m,centre-val de loire,2023,1,86544.00,1.200000
+60 ans ou plus,m,provence-alpes-côte d'azur,2022,2,686518.00,0.300000
+30-34 ans,f,auvergne-rhône-alpes,2022,9,252973.00,3.600000
+20-24 ans,m,île-de-france,2024,12,427173.00,2.800000
+45-49 ans,f,bretagne,2022,1,108917.00,0.900000
+25-29 ans,f,île-de-france,2025,34,458380.00,7.400000
+30-34 ans,m,bourgogne-franche-comté,2022,6,76158.00,7.900000
+25-29 ans,f,auvergne-rhône-alpes,2025,5,232592.00,2.100000
+30-34 ans,f,nouvelle-aquitaine,2022,1,169765.00,0.600000
+35-39 ans,m,provence-alpes-côte d'azur,2024,9,153512.00,5.900000
+25-29 ans,m,normandie,2022,5,86310.00,5.800000
+30-34 ans,f,drom,2025,1,74307.00,1.300000
+30-34 ans,m,nouvelle-aquitaine,2022,16,164607.00,9.700000
+45-49 ans,f,bretagne,2023,1,106416.00,0.900000
+20-24 ans,m,pays de la loire,2025,1,115231.00,0.900000
+60 ans ou plus,m,occitanie,2022,1,812218.00,0.100000
+50-54 ans,m,occitanie,2024,2,201175.00,1.000000
+45-49 ans,f,drom,2023,1,72995.00,1.400000
+30-34 ans,f,bretagne,2022,4,92960.00,4.300000
+35-39 ans,m,bourgogne-franche-comté,2024,2,80440.00,2.500000
+20-24 ans,f,île-de-france,2023,2,435802.00,0.500000
+40-44 ans,f,normandie,2024,1,103972.00,1.000000
+50-54 ans,m,bretagne,2025,1,117738.00,0.800000
+30-34 ans,f,normandie,2024,1,93248.00,1.100000
+25-29 ans,f,pays de la loire,2022,2,100624.00,2.000000
+30-34 ans,m,pays de la loire,2025,4,111834.00,3.600000
+25-29 ans,m,occitanie,2022,10,161274.00,6.200000
+45-49 ans,m,hauts-de-france,2024,5,180281.00,2.800000
+55-59 ans,f,auvergne-rhône-alpes,2022,1,266994.00,0.400000
+45-49 ans,m,provence-alpes-côte d'azur,2023,2,153804.00,1.300000
+20-24 ans,f,hauts-de-france,2023,1,180598.00,0.600000
+25-29 ans,m,auvergne-rhône-alpes,2024,21,234838.00,8.900000
+35-39 ans,m,île-de-france,2022,55,418794.00,13.100000
+35-39 ans,m,nouvelle-aquitaine,2024,5,177203.00,2.800000
+40-44 ans,f,auvergne-rhône-alpes,2024,1,272068.00,0.400000
+40-44 ans,f,provence-alpes-côte d'azur,2024,2,169099.00,1.200000
+50-54 ans,m,hauts-de-france,2023,2,193986.00,1.000000
+50-54 ans,m,grand est,2025,3,182007.00,1.600000
+30-34 ans,m,bourgogne-franche-comté,2025,4,75037.00,5.300000
+40-44 ans,m,bretagne,2023,1,105464.00,0.900000
+40-44 ans,m,grand est,2023,4,173265.00,2.300000
+30-34 ans,m,grand est,2023,10,166200.00,6.000000
+20-24 ans,m,hauts-de-france,2025,3,185472.00,1.600000
+40-44 ans,m,provence-alpes-côte d'azur,2025,5,158561.00,3.200000
+35-39 ans,m,grand est,2024,11,171234.00,6.400000
+35-39 ans,f,normandie,2024,3,102122.00,2.900000
+35-39 ans,f,occitanie,2025,3,189701.00,1.600000
+25-29 ans,m,pays de la loire,2022,4,102069.00,3.900000
+50-54 ans,m,grand est,2023,1,186249.00,0.500000
+30-34 ans,f,nouvelle-aquitaine,2025,5,168789.00,3.000000
+40-44 ans,f,île-de-france,2025,17,444337.00,3.800000
+25-29 ans,m,grand est,2022,6,156316.00,3.800000
+20-24 ans,m,grand est,2023,1,166208.00,0.600000
+35-39 ans,m,nouvelle-aquitaine,2023,2,174048.00,1.100000
+25-29 ans,m,provence-alpes-côte d'azur,2024,3,135869.00,2.200000
+30-34 ans,f,hauts-de-france,2022,7,184679.00,3.800000
+35-39 ans,f,grand est,2023,2,174604.00,1.100000
+30-34 ans,m,grand est,2025,6,162757.00,3.700000
+45-49 ans,m,hauts-de-france,2023,2,185692.00,1.100000
+55-59 ans,m,grand est,2025,1,182863.00,0.500000
+30-34 ans,f,pays de la loire,2024,4,111637.00,3.600000
+45-49 ans,m,nouvelle-aquitaine,2023,4,187642.00,2.100000
+30-34 ans,f,pays de la loire,2025,2,111223.00,1.800000
+30-34 ans,f,occitanie,2022,5,176199.00,2.800000
+35-39 ans,m,bourgogne-franche-comté,2025,1,80558.00,1.200000
+50-54 ans,m,centre-val de loire,2025,1,85800.00,1.200000
+45-49 ans,m,bourgogne-franche-comté,2023,1,83437.00,1.200000
+50-54 ans,m,drom,2023,1,67149.00,1.500000
+25-29 ans,m,centre-val de loire,2022,1,63579.00,1.600000
+40-44 ans,m,île-de-france,2022,47,413734.00,11.400000
+50-54 ans,m,pays de la loire,2025,1,130886.00,0.800000
+40-44 ans,m,drom,2022,1,58307.00,1.700000
+25-29 ans,f,grand est,2022,2,151462.00,1.300000
+45-49 ans,m,centre-val de loire,2025,2,74138.00,2.700000
+25-29 ans,m,île-de-france,2025,51,438668.00,11.600000
+45-49 ans,f,normandie,2022,1,104152.00,1.000000
+40-44 ans,m,bretagne,2024,4,106159.00,3.800000
+55-59 ans,m,grand est,2022,3,187667.00,1.600000
+50-54 ans,m,grand est,2024,1,184483.00,0.500000
+30-34 ans,m,île-de-france,2025,50,434199.00,11.500000
+35-39 ans,f,normandie,2023,2,101702.00,2.000000
+30-34 ans,m,île-de-france,2022,69,436749.00,15.800000
+35-39 ans,f,auvergne-rhône-alpes,2024,2,267477.00,0.700000
+50-54 ans,m,centre-val de loire,2024,1,86744.00,1.200000
+25-29 ans,m,normandie,2023,6,87020.00,6.900000
+25-29 ans,m,bourgogne-franche-comté,2023,4,71624.00,5.600000
+50-54 ans,f,nouvelle-aquitaine,2022,2,209507.00,1.000000
+30-34 ans,f,bretagne,2025,4,93373.00,4.300000
+25-29 ans,f,auvergne-rhône-alpes,2024,9,231043.00,3.900000
+50-54 ans,m,grand est,2022,1,185608.00,0.500000
+20-24 ans,m,grand est,2022,2,165884.00,1.200000
+35-39 ans,f,nouvelle-aquitaine,2024,4,184364.00,2.200000
+40-44 ans,m,hauts-de-france,2022,7,186844.00,3.700000
+25-29 ans,m,nouvelle-aquitaine,2025,6,157169.00,3.800000
+55-59 ans,m,auvergne-rhône-alpes,2025,1,263229.00,0.400000
+45-49 ans,m,auvergne-rhône-alpes,2022,10,261532.00,3.800000
+25-29 ans,f,provence-alpes-côte d'azur,2022,4,133189.00,3.000000
+55-59 ans,f,provence-alpes-côte d'azur,2025,1,181995.00,0.500000
+35-39 ans,m,île-de-france,2025,38,431296.00,8.800000
+20-24 ans,m,auvergne-rhône-alpes,2023,2,239481.00,0.800000
+25-29 ans,f,pays de la loire,2025,1,104818.00,1.000000
+40-44 ans,f,drom,2024,1,74075.00,1.300000
+55-59 ans,m,nouvelle-aquitaine,2022,1,201205.00,0.500000
+25-29 ans,m,bourgogne-franche-comté,2024,3,72827.00,4.100000
+40-44 ans,m,nouvelle-aquitaine,2023,1,185122.00,0.500000
+40-44 ans,f,occitanie,2023,1,194739.00,0.500000
+45-49 ans,f,grand est,2022,1,175778.00,0.600000
+50-54 ans,f,normandie,2022,1,110009.00,0.900000
+35-39 ans,m,normandie,2025,2,99395.00,2.000000
+30-34 ans,m,hauts-de-france,2024,6,175296.00,3.400000
+35-39 ans,f,île-de-france,2023,30,451589.00,6.600000
+25-29 ans,m,bourgogne-franche-comté,2022,4,71275.00,5.600000
+45-49 ans,m,nouvelle-aquitaine,2025,3,181525.00,1.700000
+45-49 ans,f,hauts-de-france,2023,1,187006.00,0.500000
+30-34 ans,f,bretagne,2024,3,93046.00,3.200000
+55-59 ans,f,grand est,2025,1,187042.00,0.500000
+30-34 ans,m,centre-val de loire,2023,2,69992.00,2.900000
+25-29 ans,f,bourgogne-franche-comté,2022,2,68487.00,2.900000
+40-44 ans,f,pays de la loire,2024,2,126287.00,1.600000
+60 ans ou plus,m,grand est,2022,1,691444.00,0.100000
+40-44 ans,f,nouvelle-aquitaine,2024,4,194583.00,2.100000
+25-29 ans,m,pays de la loire,2025,3,108380.00,2.800000
+45-49 ans,f,île-de-france,2024,10,410340.00,2.400000
+40-44 ans,f,bourgogne-franche-comté,2024,1,84986.00,1.200000
+30-34 ans,m,centre-val de loire,2024,3,69232.00,4.300000
+50-54 ans,m,île-de-france,2022,21,387897.00,5.400000
+45-49 ans,m,drom,2024,2,60659.00,3.300000
+50-54 ans,m,île-de-france,2024,10,402616.00,2.500000
+35-39 ans,m,île-de-france,2024,35,426384.00,8.200000
+25-29 ans,f,auvergne-rhône-alpes,2023,2,227890.00,0.900000
+30-34 ans,f,provence-alpes-côte d'azur,2023,4,154741.00,2.600000
+55-59 ans,m,provence-alpes-côte d'azur,2023,1,169280.00,0.600000
+40-44 ans,m,drom,2024,1,59286.00,1.700000
+45-49 ans,f,pays de la loire,2025,3,119942.00,2.500000
+55-59 ans,f,île-de-france,2023,2,392302.00,0.500000
+30-34 ans,f,bretagne,2023,2,93115.00,2.100000
+45-49 ans,f,provence-alpes-côte d'azur,2025,2,161801.00,1.200000
+35-39 ans,f,nouvelle-aquitaine,2025,2,185965.00,1.100000
+55-59 ans,m,pays de la loire,2022,1,120546.00,0.800000
+30-34 ans,m,occitanie,2023,7,170973.00,4.100000
+60 ans ou plus,m,île-de-france,2025,3,1218859.00,0.200000
+50-54 ans,m,auvergne-rhône-alpes,2025,1,273493.00,0.400000
+45-49 ans,f,île-de-france,2022,16,414197.00,3.900000
+55-59 ans,m,occitanie,2025,4,198304.00,2.000000
+45-49 ans,f,normandie,2023,2,100568.00,2.000000
+40-44 ans,f,hauts-de-france,2025,2,195613.00,1.000000
+40-44 ans,m,nouvelle-aquitaine,2025,1,186909.00,0.500000
+60 ans ou plus,m,drom,2025,1,228811.00,0.400000
+25-29 ans,m,drom,2024,1,52719.00,1.900000
+40-44 ans,m,drom,2025,3,60026.00,5.000000
+30-34 ans,m,drom,2024,2,57367.00,3.500000
+35-39 ans,m,provence-alpes-côte d'azur,2023,5,150027.00,3.300000
+45-49 ans,m,provence-alpes-côte d'azur,2022,4,157331.00,2.500000
+35-39 ans,m,bourgogne-franche-comté,2023,2,79875.00,2.500000
+50-54 ans,f,auvergne-rhône-alpes,2025,2,273757.00,0.700000
+25-29 ans,m,bretagne,2025,3,92545.00,3.200000
+35-39 ans,f,bretagne,2023,1,100463.00,1.000000
+45-49 ans,m,auvergne-rhône-alpes,2023,5,254893.00,2.000000
+50-54 ans,f,île-de-france,2022,4,403221.00,1.000000
+40-44 ans,f,nouvelle-aquitaine,2025,4,195880.00,2.000000
+55-59 ans,m,grand est,2023,1,186882.00,0.500000
+30-34 ans,f,auvergne-rhône-alpes,2023,6,253941.00,2.400000
+40-44 ans,f,normandie,2023,1,102881.00,1.000000
+45-49 ans,f,auvergne-rhône-alpes,2022,3,261130.00,1.100000
+25-29 ans,f,pays de la loire,2024,1,103461.00,1.000000
+20-24 ans,m,hauts-de-france,2024,8,186677.00,4.300000
+50-54 ans,f,île-de-france,2025,6,410659.00,1.500000
+60 ans ou plus,m,île-de-france,2023,8,1166390.00,0.700000
+55-59 ans,m,île-de-france,2023,9,372264.00,2.400000
+30-34 ans,m,occitanie,2025,7,171784.00,4.100000
+35-39 ans,f,pays de la loire,2022,1,119787.00,0.800000
+45-49 ans,m,pays de la loire,2022,3,125732.00,2.400000
+35-39 ans,m,nouvelle-aquitaine,2022,11,173221.00,6.400000
+50-54 ans,f,grand est,2024,1,188557.00,0.500000
+35-39 ans,m,bretagne,2024,2,100144.00,2.000000
+55-59 ans,f,île-de-france,2022,6,393487.00,1.500000
+45-49 ans,f,provence-alpes-côte d'azur,2022,1,165283.00,0.600000
+25-29 ans,m,nouvelle-aquitaine,2024,13,154264.00,8.400000
+60 ans ou plus,f,île-de-france,2022,1,1452302.00,0.100000
+30-34 ans,f,grand est,2024,2,164554.00,1.200000
+20-24 ans,m,normandie,2024,3,95057.00,3.200000
+20-24 ans,m,occitanie,2025,6,177453.00,3.400000
+35-39 ans,f,grand est,2025,4,176744.00,2.300000
+40-44 ans,f,centre-val de loire,2024,1,80310.00,1.200000
+50-54 ans,f,normandie,2024,1,111213.00,0.900000
+45-49 ans,f,occitanie,2025,3,188641.00,1.600000
+40-44 ans,f,hauts-de-france,2023,2,193907.00,1.000000
+50-54 ans,m,nouvelle-aquitaine,2022,3,201275.00,1.500000
+50-54 ans,f,nouvelle-aquitaine,2024,2,214646.00,0.900000
+55-59 ans,m,bretagne,2024,1,112080.00,0.900000
+35-39 ans,f,nouvelle-aquitaine,2023,1,181909.00,0.500000
+45-49 ans,f,pays de la loire,2023,1,122591.00,0.800000
+30-34 ans,f,provence-alpes-côte d'azur,2025,9,153132.00,5.900000
+20-24 ans,m,bourgogne-franche-comté,2024,4,77750.00,5.100000
+25-29 ans,f,île-de-france,2024,33,448170.00,7.400000
+30-34 ans,m,île-de-france,2023,66,438221.00,15.100000
+50-54 ans,m,bretagne,2023,1,115662.00,0.900000
+50-54 ans,f,île-de-france,2024,2,410790.00,0.500000
+45-49 ans,m,provence-alpes-côte d'azur,2025,5,153712.00,3.300000
+20-24 ans,m,grand est,2025,3,165188.00,1.800000
+25-29 ans,f,provence-alpes-côte d'azur,2024,7,137304.00,5.100000
+55-59 ans,m,nouvelle-aquitaine,2024,1,201782.00,0.500000
+50-54 ans,m,nouvelle-aquitaine,2025,1,207047.00,0.500000
+25-29 ans,m,grand est,2024,10,158015.00,6.300000
+25-29 ans,m,occitanie,2025,12,167922.00,7.100000
+30-34 ans,m,bourgogne-franche-comté,2024,4,75662.00,5.300000
+30-34 ans,m,auvergne-rhône-alpes,2024,12,249097.00,4.800000
+40-44 ans,m,île-de-france,2024,25,415757.00,6.000000
+45-49 ans,m,pays de la loire,2025,3,119918.00,2.500000
+40-44 ans,m,bourgogne-franche-comté,2024,1,83678.00,1.200000
+40-44 ans,f,grand est,2022,2,173190.00,1.200000
+40-44 ans,m,normandie,2023,2,100110.00,2.000000
+30-34 ans,f,île-de-france,2022,37,465599.00,7.900000
+50-54 ans,m,occitanie,2025,1,199920.00,0.500000
+25-29 ans,m,drom,2025,2,52902.00,3.800000
+40-44 ans,m,occitanie,2025,2,186576.00,1.100000
+60 ans ou plus,f,auvergne-rhône-alpes,2022,1,1201312.00,0.100000
+30-34 ans,f,bourgogne-franche-comté,2025,2,73678.00,2.700000
+40-44 ans,f,occitanie,2025,2,198246.00,1.000000
+35-39 ans,m,auvergne-rhône-alpes,2023,6,255024.00,2.400000
+25-29 ans,m,île-de-france,2023,60,418751.00,14.300000
+20-24 ans,m,occitanie,2024,3,175810.00,1.700000
+25-29 ans,f,auvergne-rhône-alpes,2022,4,227869.00,1.800000
+50-54 ans,m,auvergne-rhône-alpes,2022,3,267934.00,1.100000
+45-49 ans,m,grand est,2025,2,164387.00,1.200000
+40-44 ans,m,bourgogne-franche-comté,2023,1,83399.00,1.200000
+40-44 ans,f,centre-val de loire,2025,2,80808.00,2.500000
+60 ans ou plus,m,centre-val de loire,2025,2,357968.00,0.600000
+25-29 ans,m,hauts-de-france,2023,6,166884.00,3.600000
+20-24 ans,f,provence-alpes-côte d'azur,2025,2,132241.00,1.500000
+25-29 ans,f,centre-val de loire,2025,3,64876.00,4.600000
+55-59 ans,f,auvergne-rhône-alpes,2025,2,267675.00,0.700000
+40-44 ans,f,drom,2025,1,75141.00,1.300000
+30-34 ans,f,normandie,2023,2,94495.00,2.100000
+40-44 ans,f,pays de la loire,2022,3,122673.00,2.400000
+20-24 ans,m,bretagne,2022,1,97043.00,1.000000
+25-29 ans,f,bretagne,2022,1,83474.00,1.200000
+35-39 ans,m,normandie,2024,2,98757.00,2.000000
+35-39 ans,m,auvergne-rhône-alpes,2024,7,258389.00,2.700000
+25-29 ans,m,occitanie,2023,3,162878.00,1.800000
+25-29 ans,f,grand est,2024,2,151821.00,1.300000
+25-29 ans,f,provence-alpes-côte d'azur,2023,2,134785.00,1.500000
+35-39 ans,f,bretagne,2022,1,100341.00,1.000000
+30-34 ans,f,provence-alpes-côte d'azur,2022,2,153231.00,1.300000
+45-49 ans,f,normandie,2024,1,97825.00,1.000000
+20-24 ans,f,grand est,2024,1,152348.00,0.700000
+40-44 ans,f,hauts-de-france,2022,4,190967.00,2.100000
+40-44 ans,m,pays de la loire,2024,2,124447.00,1.600000
+50-54 ans,m,normandie,2024,1,109116.00,0.900000
+55-59 ans,m,occitanie,2022,2,196716.00,1.000000
+40-44 ans,f,nouvelle-aquitaine,2022,7,189218.00,3.700000
+30-34 ans,f,grand est,2023,1,167064.00,0.600000
+35-39 ans,f,provence-alpes-côte d'azur,2024,1,164662.00,0.600000
+20-24 ans,f,auvergne-rhône-alpes,2025,3,227783.00,1.300000
+20-24 ans,f,occitanie,2025,1,167339.00,0.600000
+30-34 ans,m,auvergne-rhône-alpes,2023,9,248933.00,3.600000
+60 ans ou plus,m,nouvelle-aquitaine,2022,1,855814.00,0.100000
+35-39 ans,m,hauts-de-france,2023,5,186994.00,2.700000
+50-54 ans,f,centre-val de loire,2025,1,87808.00,1.100000
+20-24 ans,m,nouvelle-aquitaine,2024,3,165782.00,1.800000
+40-44 ans,f,auvergne-rhône-alpes,2023,2,268981.00,0.700000
+20-24 ans,m,bretagne,2024,3,97842.00,3.100000
+35-39 ans,f,grand est,2022,3,175546.00,1.700000
+45-49 ans,m,île-de-france,2024,16,403588.00,4.000000
+25-29 ans,f,hauts-de-france,2022,1,167340.00,0.600000
+20-24 ans,f,île-de-france,2025,6,439216.00,1.400000
+35-39 ans,f,normandie,2022,1,101931.00,1.000000
+35-39 ans,m,normandie,2022,3,98057.00,3.100000
+50-54 ans,f,occitanie,2025,2,208587.00,1.000000
+45-49 ans,m,hauts-de-france,2025,4,177781.00,2.200000
+20-24 ans,m,pays de la loire,2024,1,114726.00,0.900000
+45-49 ans,m,grand est,2022,2,174486.00,1.100000
+25-29 ans,m,provence-alpes-côte d'azur,2022,4,130652.00,3.100000
+40-44 ans,f,auvergne-rhône-alpes,2025,2,273648.00,0.700000
+25-29 ans,f,occitanie,2024,2,163045.00,1.200000
+40-44 ans,m,bretagne,2025,4,105984.00,3.800000
+35-39 ans,m,hauts-de-france,2022,5,188234.00,2.700000
+35-39 ans,f,grand est,2024,1,176076.00,0.600000
+35-39 ans,m,occitanie,2024,5,178882.00,2.800000
+25-29 ans,m,provence-alpes-côte d'azur,2025,10,139031.00,7.200000
+30-34 ans,m,provence-alpes-côte d'azur,2022,17,144254.00,11.800000
+40-44 ans,f,île-de-france,2023,20,439760.00,4.500000
+35-39 ans,f,île-de-france,2025,35,456434.00,7.700000
+40-44 ans,m,pays de la loire,2025,3,124103.00,2.400000
+55-59 ans,f,occitanie,2022,2,208809.00,1.000000
+30-34 ans,m,grand est,2022,10,166340.00,6.000000
+30-34 ans,m,pays de la loire,2022,7,111092.00,6.300000
+45-49 ans,m,bretagne,2024,1,103785.00,1.000000
+30-34 ans,m,hauts-de-france,2023,9,178623.00,5.000000
+30-34 ans,f,île-de-france,2025,33,454134.00,7.300000
+40-44 ans,f,drom,2022,2,72658.00,2.800000
+50-54 ans,m,provence-alpes-côte d'azur,2022,2,166314.00,1.200000
+55-59 ans,m,nouvelle-aquitaine,2025,3,202054.00,1.500000
+55-59 ans,f,provence-alpes-côte d'azur,2022,1,183572.00,0.500000
+30-34 ans,m,provence-alpes-côte d'azur,2025,14,143429.00,9.800000
+45-49 ans,f,bourgogne-franche-comté,2025,1,80636.00,1.200000
+40-44 ans,m,auvergne-rhône-alpes,2022,7,255076.00,2.700000
+40-44 ans,m,hauts-de-france,2024,2,191252.00,1.000000
+60 ans ou plus,m,auvergne-rhône-alpes,2025,2,1026267.00,0.200000
+25-29 ans,m,provence-alpes-côte d'azur,2023,7,132703.00,5.300000
+35-39 ans,m,drom,2025,2,61074.00,3.300000
+45-49 ans,f,bretagne,2025,3,103458.00,2.900000
+30-34 ans,m,occitanie,2024,11,171358.00,6.400000
+50-54 ans,f,pays de la loire,2023,1,127864.00,0.800000
+20-24 ans,f,normandie,2023,1,88625.00,1.100000
+25-29 ans,m,bretagne,2024,3,90514.00,3.300000
+35-39 ans,f,centre-val de loire,2023,1,77237.00,1.300000
+35-39 ans,f,bourgogne-franche-comté,2025,2,82135.00,2.400000
+20-24 ans,f,nouvelle-aquitaine,2024,2,152482.00,1.300000
+30-34 ans,m,bourgogne-franche-comté,2023,2,76551.00,2.600000
+40-44 ans,f,drom,2023,1,73154.00,1.400000
+45-49 ans,m,occitanie,2022,3,185979.00,1.600000
+45-49 ans,m,bretagne,2022,4,110035.00,3.600000
+40-44 ans,f,provence-alpes-côte d'azur,2025,5,170132.00,2.900000
+40-44 ans,m,provence-alpes-côte d'azur,2023,2,157357.00,1.300000
+25-29 ans,f,bretagne,2024,2,85760.00,2.300000
+40-44 ans,m,provence-alpes-côte d'azur,2022,6,154003.00,3.900000
+20-24 ans,f,hauts-de-france,2025,1,178917.00,0.600000
+30-34 ans,f,île-de-france,2023,52,463512.00,11.200000
+50-54 ans,m,provence-alpes-côte d'azur,2025,3,168725.00,1.800000
+45-49 ans,m,normandie,2022,1,101654.00,1.000000
+35-39 ans,m,pays de la loire,2024,1,118093.00,0.800000
+40-44 ans,f,pays de la loire,2023,1,125426.00,0.800000
+55-59 ans,m,bourgogne-franche-comté,2025,1,93964.00,1.100000
+60 ans ou plus,m,provence-alpes-côte d'azur,2023,1,702358.00,0.100000
+20-24 ans,f,auvergne-rhône-alpes,2024,1,227777.00,0.400000
+40-44 ans,m,occitanie,2023,4,185658.00,2.200000
+50-54 ans,f,île-de-france,2023,4,407995.00,1.000000
+45-49 ans,f,centre-val de loire,2025,2,76338.00,2.600000
+30-34 ans,f,île-de-france,2024,30,458940.00,6.500000
+35-39 ans,m,bretagne,2022,3,98865.00,3.000000
+55-59 ans,m,centre-val de loire,2023,1,84616.00,1.200000
+25-29 ans,f,occitanie,2025,6,164429.00,3.600000
+30-34 ans,m,provence-alpes-côte d'azur,2024,9,144322.00,6.200000
+30-34 ans,f,centre-val de loire,2023,2,72358.00,2.800000
+25-29 ans,m,auvergne-rhône-alpes,2022,8,229782.00,3.500000
+30-34 ans,f,hauts-de-france,2023,5,181905.00,2.700000
+40-44 ans,m,normandie,2022,3,98210.00,3.100000
+35-39 ans,f,auvergne-rhône-alpes,2025,4,269063.00,1.500000
+50-54 ans,f,provence-alpes-côte d'azur,2022,1,177411.00,0.600000
+55-59 ans,f,nouvelle-aquitaine,2022,1,213254.00,0.500000
+30-34 ans,m,normandie,2022,6,93536.00,6.400000
+50-54 ans,f,provence-alpes-côte d'azur,2025,2,177098.00,1.100000
+30-34 ans,m,normandie,2023,2,93288.00,2.100000
+45-49 ans,m,occitanie,2024,2,180778.00,1.100000
+20-24 ans,m,île-de-france,2022,1,410020.00,0.200000
+40-44 ans,f,bretagne,2025,1,108286.00,0.900000
+45-49 ans,m,occitanie,2023,3,182725.00,1.600000
+20-24 ans,m,bretagne,2025,3,98243.00,3.100000
+35-39 ans,m,occitanie,2023,2,176005.00,1.100000
+60 ans ou plus,m,île-de-france,2022,10,1142183.00,0.900000
+35-39 ans,f,bretagne,2024,1,101890.00,1.000000
+50-54 ans,f,provence-alpes-côte d'azur,2023,1,178199.00,0.600000
+25-29 ans,m,grand est,2025,7,159386.00,4.400000
+45-49 ans,m,bourgogne-franche-comté,2025,1,79998.00,1.300000
+35-39 ans,m,hauts-de-france,2025,10,189573.00,5.300000
+25-29 ans,m,hauts-de-france,2022,2,167168.00,1.200000
+30-34 ans,f,grand est,2022,4,168006.00,2.400000
+50-54 ans,m,pays de la loire,2022,2,125268.00,1.600000
+50-54 ans,f,normandie,2025,2,110036.00,1.800000
+30-34 ans,m,bretagne,2022,5,93119.00,5.400000
+30-34 ans,f,provence-alpes-côte d'azur,2024,1,154226.00,0.600000
+25-29 ans,m,bourgogne-franche-comté,2025,2,73977.00,2.700000
+60 ans ou plus,m,auvergne-rhône-alpes,2023,1,984729.00,0.100000
+40-44 ans,f,grand est,2025,1,178972.00,0.600000
+40-44 ans,f,provence-alpes-côte d'azur,2023,2,167491.00,1.200000
+55-59 ans,m,grand est,2024,1,185421.00,0.500000
+50-54 ans,f,provence-alpes-côte d'azur,2024,1,178964.00,0.600000
+45-49 ans,m,auvergne-rhône-alpes,2025,2,247776.00,0.800000
+45-49 ans,m,grand est,2024,6,165888.00,3.600000
+50-54 ans,m,auvergne-rhône-alpes,2024,2,274269.00,0.700000
+25-29 ans,m,nouvelle-aquitaine,2023,10,151859.00,6.600000
+35-39 ans,f,hauts-de-france,2025,1,194333.00,0.500000
+45-49 ans,m,pays de la loire,2023,3,122987.00,2.400000
+55-59 ans,f,provence-alpes-côte d'azur,2024,1,183709.00,0.500000
+25-29 ans,f,centre-val de loire,2023,1,63395.00,1.600000
+40-44 ans,f,nouvelle-aquitaine,2023,3,192647.00,1.600000
+40-44 ans,f,île-de-france,2022,34,434771.00,7.800000
+35-39 ans,f,auvergne-rhône-alpes,2022,6,265304.00,2.300000
+35-39 ans,m,grand est,2022,10,170597.00,5.900000
+25-29 ans,f,nouvelle-aquitaine,2022,1,150191.00,0.700000
+35-39 ans,f,hauts-de-france,2024,2,195295.00,1.000000
+45-49 ans,m,pays de la loire,2024,1,120326.00,0.800000
+45-49 ans,f,drom,2025,1,71068.00,1.400000
+25-29 ans,f,bourgogne-franche-comté,2025,1,69502.00,1.400000
+20-24 ans,m,nouvelle-aquitaine,2025,6,165972.00,3.600000
+30-34 ans,f,occitanie,2025,4,176586.00,2.300000
+55-59 ans,m,île-de-france,2024,2,370599.00,0.500000
+40-44 ans,f,occitanie,2022,5,190696.00,2.600000
+35-39 ans,m,pays de la loire,2022,7,116874.00,6.000000
+25-29 ans,f,hauts-de-france,2025,2,169973.00,1.200000
+25-29 ans,m,hauts-de-france,2024,12,168697.00,7.100000
+20-24 ans,m,auvergne-rhône-alpes,2024,7,240832.00,2.900000
+50-54 ans,f,normandie,2023,1,110948.00,0.900000
+55-59 ans,m,hauts-de-france,2023,1,187578.00,0.500000
+35-39 ans,m,île-de-france,2023,46,420747.00,10.900000
+25-29 ans,m,île-de-france,2022,41,415647.00,9.900000
+35-39 ans,f,occitanie,2024,3,188213.00,1.600000
+35-39 ans,f,bourgogne-franche-comté,2022,1,81864.00,1.200000
+35-39 ans,f,centre-val de loire,2025,1,77882.00,1.300000
+40-44 ans,m,grand est,2024,3,173673.00,1.700000
+25-29 ans,m,occitanie,2024,7,165330.00,4.200000
+25-29 ans,m,normandie,2025,2,89195.00,2.200000
+55-59 ans,f,hauts-de-france,2025,2,189337.00,1.100000
+35-39 ans,m,centre-val de loire,2024,6,74044.00,8.100000
+50-54 ans,f,auvergne-rhône-alpes,2022,2,271085.00,0.700000
+60 ans ou plus,m,auvergne-rhône-alpes,2022,2,963910.00,0.200000
+35-39 ans,m,grand est,2025,10,171956.00,5.800000
+40-44 ans,m,normandie,2024,2,100372.00,2.000000
+35-39 ans,m,occitanie,2022,12,175287.00,6.800000
+45-49 ans,m,centre-val de loire,2022,1,80214.00,1.200000
+35-39 ans,m,drom,2023,1,59124.00,1.700000
+20-24 ans,f,bretagne,2024,1,89615.00,1.100000
+50-54 ans,f,pays de la loire,2024,1,129960.00,0.800000
+55-59 ans,m,bourgogne-franche-comté,2023,2,94067.00,2.100000
+55-59 ans,f,normandie,2025,1,111184.00,0.900000
+50-54 ans,m,hauts-de-france,2024,3,196058.00,1.500000
+35-39 ans,m,occitanie,2025,9,181181.00,5.000000
+30-34 ans,m,auvergne-rhône-alpes,2025,16,249732.00,6.400000
+40-44 ans,m,nouvelle-aquitaine,2022,7,182141.00,3.800000
+30-34 ans,f,grand est,2025,4,162208.00,2.500000
+40-44 ans,m,nouvelle-aquitaine,2024,3,186285.00,1.600000
+30-34 ans,m,nouvelle-aquitaine,2023,9,165350.00,5.400000
+45-49 ans,m,nouvelle-aquitaine,2024,2,182661.00,1.100000
+50-54 ans,m,nouvelle-aquitaine,2024,5,207820.00,2.400000
+25-29 ans,m,normandie,2024,2,88117.00,2.300000
+35-39 ans,f,nouvelle-aquitaine,2022,3,180859.00,1.700000
+30-34 ans,f,centre-val de loire,2025,3,69946.00,4.300000
+30-34 ans,f,bourgogne-franche-comté,2022,1,76666.00,1.300000
+20-24 ans,m,bourgogne-franche-comté,2025,4,77650.00,5.200000
+30-34 ans,m,centre-val de loire,2025,2,68830.00,2.900000
+35-39 ans,f,hauts-de-france,2022,12,194611.00,6.200000
+25-29 ans,m,auvergne-rhône-alpes,2025,18,237141.00,7.600000
+30-34 ans,f,centre-val de loire,2022,4,72900.00,5.500000
+40-44 ans,m,auvergne-rhône-alpes,2025,11,262919.00,4.200000
+55-59 ans,f,pays de la loire,2023,1,124182.00,0.800000
+30-34 ans,f,bourgogne-franche-comté,2023,2,75867.00,2.600000
+60 ans ou plus,m,hauts-de-france,2023,1,668303.00,0.100000
+50-54 ans,m,hauts-de-france,2022,6,191932.00,3.100000
+30-34 ans,f,hauts-de-france,2025,2,176061.00,1.100000
+45-49 ans,m,île-de-france,2025,20,401303.00,5.000000
+40-44 ans,m,île-de-france,2023,35,416626.00,8.400000
+45-49 ans,f,occitanie,2022,1,192843.00,0.500000
+35-39 ans,f,auvergne-rhône-alpes,2023,4,265595.00,1.500000
+30-34 ans,f,nouvelle-aquitaine,2023,5,170368.00,2.900000
+25-29 ans,f,hauts-de-france,2024,1,168671.00,0.600000
+55-59 ans,m,provence-alpes-côte d'azur,2024,2,168822.00,1.200000
+20-24 ans,m,centre-val de loire,2023,2,68668.00,2.900000
+40-44 ans,m,occitanie,2022,6,182583.00,3.300000
+45-49 ans,m,drom,2022,2,63017.00,3.200000
+30-34 ans,m,nouvelle-aquitaine,2024,11,165045.00,6.700000
+45-49 ans,f,auvergne-rhône-alpes,2025,1,252617.00,0.400000
+55-59 ans,f,occitanie,2023,1,210500.00,0.500000
+35-39 ans,f,île-de-france,2024,21,454991.00,4.600000
+45-49 ans,m,île-de-france,2022,22,411669.00,5.300000
+35-39 ans,m,hauts-de-france,2024,7,188763.00,3.700000
+25-29 ans,m,île-de-france,2024,57,427506.00,13.300000
+40-44 ans,m,bretagne,2022,4,103643.00,3.900000
+25-29 ans,f,centre-val de loire,2024,1,64415.00,1.600000
+40-44 ans,m,centre-val de loire,2025,3,77077.00,3.900000
+35-39 ans,m,bretagne,2025,4,101335.00,3.900000
+50-54 ans,f,nouvelle-aquitaine,2023,2,212198.00,0.900000
+45-49 ans,m,hauts-de-france,2022,4,190618.00,2.100000
+25-29 ans,f,pays de la loire,2023,1,101579.00,1.000000
+30-34 ans,m,nouvelle-aquitaine,2025,7,165301.00,4.200000
+40-44 ans,m,provence-alpes-côte d'azur,2024,2,157499.00,1.300000
+50-54 ans,m,pays de la loire,2023,2,127860.00,1.600000
+45-49 ans,f,île-de-france,2025,10,411611.00,2.400000
+45-49 ans,m,centre-val de loire,2024,1,75533.00,1.300000
+35-39 ans,f,provence-alpes-côte d'azur,2025,2,167082.00,1.200000
+30-34 ans,m,hauts-de-france,2025,12,172404.00,7.000000
+35-39 ans,m,auvergne-rhône-alpes,2025,6,260787.00,2.300000
+60 ans ou plus,f,bretagne,2025,1,602262.00,0.200000
+20-24 ans,f,île-de-france,2022,5,422554.00,1.200000
+30-34 ans,m,île-de-france,2024,39,436146.00,8.900000
+25-29 ans,f,île-de-france,2022,12,438011.00,2.700000
+45-49 ans,f,île-de-france,2023,13,412755.00,3.100000
+40-44 ans,m,île-de-france,2025,14,415987.00,3.400000
+30-34 ans,m,grand est,2024,7,164917.00,4.200000
+35-39 ans,m,provence-alpes-côte d'azur,2025,11,155730.00,7.100000
+25-29 ans,m,auvergne-rhône-alpes,2023,8,231796.00,3.500000
+30-34 ans,m,normandie,2024,3,92404.00,3.200000
+40-44 ans,f,auvergne-rhône-alpes,2022,5,263561.00,1.900000
+50-54 ans,f,grand est,2025,1,185152.00,0.500000
+50-54 ans,f,hauts-de-france,2023,2,196058.00,1.000000
+60 ans ou plus,m,bretagne,2022,1,453105.00,0.200000
+20-24 ans,m,centre-val de loire,2022,2,68680.00,2.900000
+25-29 ans,f,grand est,2023,4,151422.00,2.600000
+20-24 ans,m,île-de-france,2025,27,428043.00,6.300000
+50-54 ans,m,hauts-de-france,2025,2,195768.00,1.000000
+40-44 ans,m,grand est,2025,2,174748.00,1.100000
+45-49 ans,m,île-de-france,2023,20,406432.00,4.900000
+20-24 ans,m,auvergne-rhône-alpes,2025,9,241875.00,3.700000
+50-54 ans,f,hauts-de-france,2022,2,194384.00,1.000000
+30-34 ans,m,pays de la loire,2023,8,112256.00,7.100000
+35-39 ans,m,provence-alpes-côte d'azur,2022,8,149106.00,5.400000
+20-24 ans,f,île-de-france,2024,4,437692.00,0.900000
+50-54 ans,m,provence-alpes-côte d'azur,2024,3,169455.00,1.800000
+35-39 ans,f,île-de-france,2022,31,450961.00,6.900000
+20-24 ans,m,provence-alpes-côte d'azur,2023,2,141226.00,1.400000
+45-49 ans,f,auvergne-rhône-alpes,2024,1,251789.00,0.400000
+35-39 ans,f,centre-val de loire,2024,1,78018.00,1.300000
+30-34 ans,f,drom,2024,1,74582.00,1.300000
+55-59 ans,m,provence-alpes-côte d'azur,2025,1,167650.00,0.600000
+50-54 ans,m,normandie,2025,2,107608.00,1.900000
+25-29 ans,m,pays de la loire,2023,3,103822.00,2.900000
+25-29 ans,f,grand est,2025,2,151917.00,1.300000
+25-29 ans,m,centre-val de loire,2024,5,65745.00,7.600000
+30-34 ans,m,bretagne,2023,1,94029.00,1.100000
+55-59 ans,m,auvergne-rhône-alpes,2022,4,260661.00,1.500000
+60 ans ou plus,m,centre-val de loire,2023,1,349131.00,0.300000
+25-29 ans,m,centre-val de loire,2025,6,66703.00,9.000000
+40-44 ans,f,occitanie,2024,3,196788.00,1.500000
+25-29 ans,f,hauts-de-france,2023,4,167218.00,2.400000
+50-54 ans,f,occitanie,2022,1,205697.00,0.500000
+30-34 ans,m,centre-val de loire,2022,3,70117.00,4.300000
+50-54 ans,f,nouvelle-aquitaine,2025,2,213919.00,0.900000
+55-59 ans,m,provence-alpes-côte d'azur,2022,2,168350.00,1.200000
+30-34 ans,m,pays de la loire,2024,3,111967.00,2.700000
+45-49 ans,m,nouvelle-aquitaine,2022,5,192658.00,2.600000
+55-59 ans,f,pays de la loire,2025,2,123750.00,1.600000
+30-34 ans,m,occitanie,2022,14,169648.00,8.300000
+35-39 ans,f,pays de la loire,2025,1,121676.00,0.800000
+35-39 ans,f,provence-alpes-côte d'azur,2022,1,161490.00,0.600000
+20-24 ans,m,occitanie,2022,2,173775.00,1.200000
+40-44 ans,f,île-de-france,2024,8,442019.00,1.800000
+20-24 ans,m,île-de-france,2023,5,424757.00,1.200000
+30-34 ans,f,occitanie,2023,4,176953.00,2.300000
+45-49 ans,f,nouvelle-aquitaine,2023,3,193292.00,1.600000
+35-39 ans,f,hauts-de-france,2023,3,194654.00,1.500000
+55-59 ans,m,hauts-de-france,2024,3,185912.00,1.600000
+55-59 ans,m,occitanie,2024,1,198523.00,0.500000
+30-34 ans,m,drom,2025,3,56777.00,5.300000
+55-59 ans,f,nouvelle-aquitaine,2024,1,213406.00,0.500000
+40-44 ans,f,bourgogne-franche-comté,2022,1,83548.00,1.200000
+55-59 ans,m,pays de la loire,2024,1,121198.00,0.800000
+45-49 ans,f,drom,2022,1,73821.00,1.400000
+45-49 ans,m,auvergne-rhône-alpes,2024,7,249181.00,2.800000
+25-29 ans,m,bretagne,2023,4,88513.00,4.500000
+55-59 ans,m,centre-val de loire,2024,1,84372.00,1.200000
+45-49 ans,f,pays de la loire,2022,2,124709.00,1.600000
+55-59 ans,f,grand est,2022,1,193756.00,0.500000
+35-39 ans,f,provence-alpes-côte d'azur,2023,1,162451.00,0.600000
+30-34 ans,f,hauts-de-france,2024,2,179036.00,1.100000
+25-29 ans,f,nouvelle-aquitaine,2024,3,152666.00,2.000000
+20-24 ans,m,nouvelle-aquitaine,2023,2,165434.00,1.200000
+20-24 ans,m,occitanie,2023,1,175026.00,0.600000
+35-39 ans,m,grand est,2023,3,169741.00,1.800000
+40-44 ans,m,hauts-de-france,2023,4,190181.00,2.100000
+45-49 ans,f,nouvelle-aquitaine,2022,4,198248.00,2.000000
+55-59 ans,f,pays de la loire,2022,2,123747.00,1.600000
+45-49 ans,m,bretagne,2023,1,107182.00,0.900000
+35-39 ans,m,centre-val de loire,2025,7,74356.00,9.400000
+20-24 ans,m,provence-alpes-côte d'azur,2025,4,140326.00,2.900000
+50-54 ans,f,occitanie,2024,1,209579.00,0.500000
+30-34 ans,f,auvergne-rhône-alpes,2025,4,251207.00,1.600000
+20-24 ans,m,grand est,2024,4,165525.00,2.400000
+55-59 ans,f,nouvelle-aquitaine,2025,1,212399.00,0.500000
+55-59 ans,f,pays de la loire,2024,1,123824.00,0.800000
+45-49 ans,f,bourgogne-franche-comté,2023,1,84562.00,1.200000
+50-54 ans,m,provence-alpes-côte d'azur,2023,1,168899.00,0.600000
+40-44 ans,m,auvergne-rhône-alpes,2023,7,259501.00,2.700000
+45-49 ans,m,normandie,2023,1,98227.00,1.000000
+20-24 ans,m,auvergne-rhône-alpes,2022,1,239255.00,0.400000
+30-34 ans,m,bretagne,2025,4,94269.00,4.200000
+60 ans ou plus,m,hauts-de-france,2022,2,658155.00,0.300000
+35-39 ans,m,normandie,2023,1,97645.00,1.000000
+35-39 ans,f,drom,2023,1,75156.00,1.300000
+55-59 ans,m,bretagne,2025,1,112213.00,0.900000
+35-39 ans,m,drom,2022,1,58086.00,1.700000
+20-24 ans,m,centre-val de loire,2024,2,68705.00,2.900000
+50-54 ans,m,normandie,2023,2,108654.00,1.800000
+50-54 ans,f,pays de la loire,2022,1,125881.00,0.800000
+25-29 ans,m,bretagne,2022,2,86968.00,2.300000
+25-29 ans,m,pays de la loire,2024,4,105707.00,3.800000
+35-39 ans,m,auvergne-rhône-alpes,2022,16,254980.00,6.300000
+40-44 ans,m,normandie,2025,6,100557.00,6.000000
+55-59 ans,m,pays de la loire,2023,1,121045.00,0.800000
+25-29 ans,f,provence-alpes-côte d'azur,2025,3,140222.00,2.100000
+35-39 ans,m,pays de la loire,2025,3,119428.00,2.500000
+40-44 ans,m,auvergne-rhône-alpes,2024,8,261642.00,3.100000
+20-24 ans,m,hauts-de-france,2022,1,186248.00,0.500000
+45-49 ans,f,provence-alpes-côte d'azur,2024,2,160701.00,1.200000
+30-34 ans,m,bretagne,2024,4,93974.00,4.300000
+50-54 ans,m,île-de-france,2025,10,404833.00,2.500000
+25-29 ans,f,occitanie,2022,1,159618.00,0.600000
+35-39 ans,m,centre-val de loire,2022,7,73397.00,9.500000
+35-39 ans,f,occitanie,2022,3,184360.00,1.600000
+55-59 ans,f,normandie,2022,1,112927.00,0.900000
+50-54 ans,m,île-de-france,2023,14,397813.00,3.500000
+40-44 ans,m,grand est,2022,8,170271.00,4.700000
+45-49 ans,m,provence-alpes-côte d'azur,2024,3,153032.00,2.000000
+55-59 ans,m,île-de-france,2025,5,368747.00,1.400000
+55-59 ans,m,hauts-de-france,2022,1,186952.00,0.500000
+30-34 ans,m,auvergne-rhône-alpes,2022,15,247295.00,6.100000
+25-29 ans,m,hauts-de-france,2025,11,170392.00,6.500000
+20-24 ans,m,hauts-de-france,2023,2,187502.00,1.100000
+55-59 ans,f,île-de-france,2024,1,388500.00,0.300000
+45-49 ans,m,centre-val de loire,2023,2,77687.00,2.600000
+40-44 ans,m,occitanie,2024,4,185922.00,2.200000
+60 ans ou plus,m,île-de-france,2024,1,1192480.00,0.100000
+55-59 ans,m,île-de-france,2022,15,369531.00,4.100000
+30-34 ans,m,hauts-de-france,2022,17,179837.00,9.500000
+40-44 ans,f,provence-alpes-côte d'azur,2022,4,163862.00,2.400000
+25-29 ans,m,centre-val de loire,2023,5,64525.00,7.700000
+50-54 ans,m,bourgogne-franche-comté,2022,3,93561.00,3.200000
+40-44 ans,m,centre-val de loire,2024,3,76685.00,3.900000
+50-54 ans,m,auvergne-rhône-alpes,2023,1,271978.00,0.400000
+20-24 ans,f,auvergne-rhône-alpes,2023,1,227959.00,0.400000
+35-39 ans,m,nouvelle-aquitaine,2025,5,179737.00,2.800000
+30-34 ans,f,pays de la loire,2022,1,111621.00,0.900000
+30-34 ans,m,provence-alpes-côte d'azur,2023,12,145582.00,8.200000
+35-39 ans,m,pays de la loire,2023,3,116468.00,2.600000
+35-39 ans,other,hauts-de-france,2024,2,,
+30-34 ans,other,auvergne-rhône-alpes,2025,2,,
+45-49 ans,other,grand est,2023,2,,
+50-54 ans,other,hauts-de-france,2025,1,,
+45-49 ans,other,nouvelle-aquitaine,2025,1,,
+40-44 ans,other,auvergne-rhône-alpes,2023,7,,
+35-39 ans,other,île-de-france,2023,37,,
+45-49 ans,other,provence-alpes-côte d'azur,2025,1,,
+35-39 ans,other,pays de la loire,2024,1,,
+45-49 ans,other,provence-alpes-côte d'azur,2023,1,,
+35-39 ans,other,bourgogne-franche-comté,2022,3,,
+35-39 ans,other,île-de-france,2025,8,,
+30-34 ans,other,normandie,2025,1,,
+20-24 ans,other,île-de-france,2023,1,,
+30-34 ans,other,bretagne,2023,4,,
+40-44 ans,other,occitanie,2022,7,,
+25-29 ans,other,pays de la loire,2023,3,,
+20-24 ans,other,auvergne-rhône-alpes,2024,1,,
+30-34 ans,other,hauts-de-france,2025,3,,
+25-29 ans,other,hauts-de-france,2022,8,,
+35-39 ans,other,hauts-de-france,2023,6,,
+30-34 ans,other,grand est,2023,4,,
+45-49 ans,other,provence-alpes-côte d'azur,2022,4,,
+25-29 ans,other,nouvelle-aquitaine,2025,2,,
+30-34 ans,other,auvergne-rhône-alpes,2023,8,,
+40-44 ans,other,auvergne-rhône-alpes,2022,14,,
+20-24 ans,other,drom,2023,1,,
+40-44 ans,other,grand est,2022,6,,
+20-24 ans,other,bourgogne-franche-comté,2023,1,,
+60 ans ou plus,other,provence-alpes-côte d'azur,2023,1,,
+25-29 ans,other,normandie,2022,4,,
+60 ans ou plus,other,centre-val de loire,2022,1,,
+35-39 ans,other,nouvelle-aquitaine,2022,5,,
+25-29 ans,other,pays de la loire,2022,4,,
+25-29 ans,other,provence-alpes-côte d'azur,2025,1,,
+55-59 ans,other,grand est,2022,2,,
+45-49 ans,other,hauts-de-france,2023,1,,
+35-39 ans,other,pays de la loire,2022,6,,
+60 ans ou plus,other,bretagne,2022,1,,
+50-54 ans,other,nouvelle-aquitaine,2022,5,,
+60 ans ou plus,other,auvergne-rhône-alpes,2022,1,,
+50-54 ans,other,auvergne-rhône-alpes,2024,1,,
+45-49 ans,other,nouvelle-aquitaine,2024,1,,
+20-24 ans,other,grand est,2023,1,,
+40-44 ans,other,île-de-france,2022,40,,
+40-44 ans,other,grand est,2023,1,,
+40-44 ans,other,bretagne,2022,3,,
+60 ans ou plus,other,provence-alpes-côte d'azur,2022,1,,
+35-39 ans,other,auvergne-rhône-alpes,2023,4,,
+25-29 ans,other,hauts-de-france,2024,1,,
+25-29 ans,other,provence-alpes-côte d'azur,2022,8,,
+20-24 ans,other,hauts-de-france,2022,1,,
+50-54 ans,other,île-de-france,2022,24,,
+55-59 ans,other,île-de-france,2024,4,,
+30-34 ans,other,centre-val de loire,2022,5,,
+35-39 ans,other,occitanie,2022,9,,
+40-44 ans,other,île-de-france,2023,30,,
+25-29 ans,other,pays de la loire,2024,3,,
+25-29 ans,other,bretagne,2023,6,,
+40-44 ans,other,hauts-de-france,2023,1,,
+30-34 ans,other,pays de la loire,2024,1,,
+45-49 ans,other,bretagne,2023,1,,
+30-34 ans,other,grand est,2025,1,,
+50-54 ans,other,île-de-france,2023,16,,
+50-54 ans,other,provence-alpes-côte d'azur,2022,2,,
+50-54 ans,other,bretagne,2023,2,,
+55-59 ans,other,île-de-france,2022,12,,
+45-49 ans,other,île-de-france,2023,17,,
+45-49 ans,other,auvergne-rhône-alpes,2023,2,,
+45-49 ans,other,bretagne,2022,3,,
+55-59 ans,other,auvergne-rhône-alpes,2022,1,,
+40-44 ans,other,centre-val de loire,2023,1,,
+30-34 ans,other,provence-alpes-côte d'azur,2024,1,,
+30-34 ans,other,occitanie,2025,1,,
+50-54 ans,other,normandie,2023,1,,
+55-59 ans,other,occitanie,2023,1,,
