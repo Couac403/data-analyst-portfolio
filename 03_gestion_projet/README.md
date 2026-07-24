@@ -15,8 +15,9 @@ Cadrage fonctionnel et méthodologique pour l'élaboration d'un portfolio adapt�
 * `cdc_portfolio.pdf` : Cahier des charges de l'élaboration du portfolio de candidature adapté aux besoins.
 * `gantt.pbix` : Diagramme de Gantt du projet de création du protfolio.
 * `gantt.pdf` : Version statique imprimable du diagramme de Gantt.
+* `data/data_gantt.xlsx`: Données sources du Gantt.
 
 ## Technique
-* **Outils :** Power BI Desktop.
+* **Outils :** Power BI Desktop,Excel.
 * **Langage :** Power Query (M).
 * **Méthodes :** Gestion de projet.
