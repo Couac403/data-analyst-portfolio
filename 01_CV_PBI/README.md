@@ -8,7 +8,7 @@ Rapport Power BI interactif conçu pour présenter mon parcours professionnel, m
 * `CV_PBI.pdf` : Version statique imprimable.
 * `demo_cv_pbi.mov` : Démonstration vidéo des fonctionnalités interactives.
 
-## Stack Technique
+## Technique
 * **Outil :** Power BI Desktop
-* **Langages :** DAX (mesures contextuelles), Power Query (M)
-* **Design :** UX/UI orienté lisibilité et navigation fluide
+* **Langages :** DAX, Power Query
+* **Design :** Orienté lisibilité et navigation fluide
