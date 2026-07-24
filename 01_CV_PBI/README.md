@@ -4,7 +4,7 @@
 Rapport Power BI interactif conçu pour présenter mon parcours professionnel, mes compétences techniques et mes réalisations clés de manière dynamique.
 
 ## CV sous Power BI
-> ** Démonstration dynamique du dashboard :**
+** Démonstration dynamique du dashboard :**
 > [Voir](https://github.com/user-attachments/assets/706893a9-2214-48c9-9b89-6b5325312e4e)
 >
 >![cv_pbi.pdf](https://github.com/user-attachments/files/30355759/cv_pbi.pdf)
