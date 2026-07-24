@@ -11,4 +11,5 @@ Cadrage fonctionnel et méthodologique pour l'élaboration d'un portfolio adapt�
 
 ## Technique
 * **Outils :** Power BI Desktop.
+* **Langage :** Power Query (M).
 * **Méthodes :** Gestion de projet.
