@@ -1,0 +1,41 @@
+select
+    geo_id,
+    gender,
+    case
+        when age_group in ('Y60T64', 'Y65T69', 'Y70T74', 'Y75T79', 'Y80T84', 'Y85T89', 'Y90T94', 'Y_GE95') then '60 ans ou plus'
+        when age_group = 'Y10T14' then '10-14 ans'
+        when age_group = 'Y15T19' then '15-19 ans'
+        when age_group = 'Y20T24' then '20-24 ans'
+        when age_group = 'Y25T29' then '25-29 ans'
+        when age_group = 'Y30T34' then '30-34 ans'
+        when age_group = 'Y35T39' then '35-39 ans'
+        when age_group = 'Y40T44' then '40-44 ans'
+        when age_group = 'Y45T49' then '45-49 ans'
+        when age_group = 'Y50T54' then '50-54 ans'
+        when age_group = 'Y55T59' then '55-59 ans'
+        when age_group = 'Y5T9' then '5-9 ans'
+        when age_group = 'Y_LT5' then 'moins de 5 ans'
+        when age_group in ('unknown','Y25T59','Y_GE60','Y_GE75','Y_LE24','_Z','_T') then 'delete'
+        else 'delete'
+    end as age_group_clean,
+    year,
+    sum(total_population) as total_population,
+    base_measure_pop,
+    geo_type,
+    unit_measure,
+    obs_status
+from {{ref('stg_population')}}
+where age_group_clean != 'delete'
+    and base_measure_pop = 'pop_jan_1st'
+    and geo_type = 'reg'
+    and gender != '_t'
+    and unit_measure = 'ps'
+    and obs_status = 'a'
+group by geo_id,
+    gender,
+    age_group_clean,
+    year,
+    base_measure_pop,
+    geo_type,
+    unit_measure,
+    obs_status

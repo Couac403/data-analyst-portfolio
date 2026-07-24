@@ -1,0 +1,11 @@
+select
+    geo_id,
+    case
+        when region = 'guadeloupe' then 'drom'
+        when region = 'martinique' then 'drom'
+        when region = 'guyane' then 'drom'
+        when region = 'la réunion' then 'drom'
+        when region = 'mayotte' then 'drom'
+    else region
+    end as region
+from {{ref('stg_regions')}}

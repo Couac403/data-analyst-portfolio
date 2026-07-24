@@ -1,0 +1,51 @@
+version: 2
+
+models:
+
+  - name: int_students_enriched # suppression de user_id pour respecter la RGPD
+    description: "Répartition des étudiants de OpenClassrooms par catégories sociodémographiques."
+    columns:
+
+      - name: group_id
+        description:  "Identifiant du groupe sociodémographique."
+        tests:
+          - unique
+          - not_null
+
+      - name: total_students
+        description: "Nombre d'étudiants répondants aux mêmes critères de parcours, d'âge, genre, région et année."
+
+
+  - name: int_population_enriched # filtre et suppression des colonnes devenues inutiles
+    columns:
+
+      - name: geo_id
+        tests:
+          - test_name: relationships # vérification avant la lisaison
+            arguments:
+                to: ref('int_regions_enriched')
+                field: geo_id
+
+      - name: age_group_clean
+        description: "Tranches d'âges adaptées à la base de donnée d'OpenClassrooms."
+        tests:
+          - test_name: accepted_values
+            arguments:
+              values: [
+                'moins de 5 ans',
+                '5-9 ans',
+                '10-14 ans',
+                '15-19 ans',
+                '20-24 ans',
+                '25-29 ans',
+                '30-34 ans',
+                '35-39 ans',
+                '40-44 ans',
+                '45-49 ans',
+                '50-54 ans',
+                '55-59 ans',
+                '60 ans ou plus'
+                ]
+
+
+  - name: int_regions_enriched # adaptation des noms des drom pour correspondre à la nomenclature de OpenClassrooms

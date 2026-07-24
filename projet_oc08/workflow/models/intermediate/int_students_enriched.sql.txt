@@ -1,0 +1,15 @@
+select
+    concat(age_group,gender,region,year) as group_id,
+    path_category_name,
+    age_group,
+    gender,
+    region,
+    year,
+    count(*) as total_students
+from {{ref('stg_students')}}
+group by group_id,
+    path_category_name,
+    age_group,
+    gender,
+    region,
+    year
