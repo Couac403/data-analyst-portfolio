@@ -13,7 +13,6 @@ Rapport Power BI interactif conçu pour présenter mon parcours professionnel, m
 ## Contenu du dossier
 * `CV_PBI.pbix` : Rapport Power BI.
 * `CV_PBI.pdf` : Version statique imprimable.
-* `assets/demo_cv_pbi.mov` : Démonstration vidéo des fonctionnalités interactives.
 * `data/data_cv.xlsx` : Données sources du rapport Power BI.
 
 ## Technique
