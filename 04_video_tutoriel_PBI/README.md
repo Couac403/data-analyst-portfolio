@@ -3,11 +3,11 @@
 ## Présentation
 Présentation vidéo de la création du rapport Power BI du diagramme de Gantt.
 
-> **Lire la fiche pratique :**
-> [Voir](https://github.com/user-attachments/files/30355070/doc.pdf)
+> **Fiche pratique :**
+> [Lire](https://github.com/user-attachments/files/30355070/doc.pdf)
 
 ## Vidéo : Créer et configurer un diagramme de Gantt dans Power BI
-[![Voir le Tutoriel Power BI Gantt](https://img.youtube.com/vi/ORH7mImq_C4/hqdefault.jpg)](https://www.youtube.com/watch?v=ORH7mImq_C4)
+[![Voir le tutoriel Power BI Gantt](https://img.youtube.com/vi/ORH7mImq_C4/hqdefault.jpg)](https://www.youtube.com/watch?v=ORH7mImq_C4)
 
 > **Regarder la vidéo :** *Cliquez sur l'image ci-dessus pour visionner le tutoriel complet sur YouTube.*
 
