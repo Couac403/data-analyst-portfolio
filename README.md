@@ -10,7 +10,6 @@ Afin de combiner présentation professionnelle et maîtrise technique de Power B
 
 > **Aperçu du CV :**
 > ![Aperçu CV Power BI](https://github.com/user-attachments/files/30338925/cv_pbi.pdf)
-)
 > **Démonstration dynamique du dashboard :**
 > [Voir](https://github.com/user-attachments/assets/706893a9-2214-48c9-9b89-6b5325312e4e)
 * **[Accéder aux sources et détails du projet](./01_Power_BI_CV/)**
