@@ -9,9 +9,10 @@ Synthèse d'études et de suivis des outils et méthodes liés à la data analys
 
 
 ## Contenu du dossier
-* `veille_pbi.pbix` : Rapport source Power BI.
+* `veille_pbi.pbix` : Rapport Power BI.
 * `veille_pbi.pdf` : Version statique imprimable.
+* `data/data_veille.xlsx` : Données sources du rapport Power BI.
 
 ## Technique
-* **Outil :** Power BI Desktop.
+* **Outil :** Power BI Desktop, Excel.
 * **Langages :** DAX, Power Query (M).
