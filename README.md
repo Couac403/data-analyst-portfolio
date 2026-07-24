@@ -1,10 +1,10 @@
-# Portfolio Data & Analytics | Florian Mounier
+# Portfolio Data & Analytics de Florian Mounier
 
-Bienvenue sur mon repository portfolio. Ce dossier rassemble mes projets en **Business Intelligence**, **Data Engineering** et **Data Science** réalisés cette année.
+Bienvenue sur mon portfolio, il rassemble les projets en **Business Intelligence**, **Data Engineering** et **Data Science** que j'ai réalisés jusqu'à présent et sera alimenté au fil de ceux à venir.
 
 ---
 
-## Mon CV Interactif Power BI
+## Mon CV interactif Power BI
 
 Afin de combiner présentation professionnelle et maîtrise technique de Power BI, j'ai conçu mon CV sous forme de Tableau de Bord interactif.
 
