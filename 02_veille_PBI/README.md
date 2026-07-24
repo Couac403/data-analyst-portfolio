@@ -9,4 +9,4 @@ Synthèse d'études et de suivis des outils et méthodes liés à la data analys
 
 ## Technique
 * **Outil :** Power BI Desktop.
-* **Langage :** DAX.
+* **Langage :** DAX, Power Query (M).
