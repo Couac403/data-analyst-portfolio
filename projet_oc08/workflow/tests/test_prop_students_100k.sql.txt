@@ -1,0 +1,1 @@
+select * from {{ref('fct_students_by_population')}} where prop_students_100k > 100

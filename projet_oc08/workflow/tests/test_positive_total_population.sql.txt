@@ -1,0 +1,1 @@
+select * from {{ref('dim_population_by_region')}} where total_population <= 0
