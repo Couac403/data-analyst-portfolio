@@ -45,5 +45,5 @@ Retrouvez également dans ce repository :
 
 ## Contact & Liens
 
-* **LinkedIn :** [Lien vers votre profil LinkedIn](#)
-* **Email :** [Votre adresse email](#)
+* **LinkedIn :** [www.linkedin.com/in/mounier-florian](#)
+* **Email :** [florian.mounier@ikmail.com](#)
