@@ -13,6 +13,7 @@ Présentation vidéo de la création du rapport Power BI du diagramme de Gantt.
 
 ## Contenu du dossier
 * `doc.pdf` : Procédure documentaire.
+* `assets/lien_video.md` : Lien vers la vidéo Youtube du tutoriel.
 
 ## Technique
 * **Outils :** Power BI Desktop, QuickTime Player, Final Cut Pro.
