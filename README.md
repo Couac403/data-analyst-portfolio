@@ -8,7 +8,8 @@ Bienvenue sur mon repository portfolio. Ce dossier rassemble mes projets en **Bu
 
 Afin de combiner présentation professionnelle et maîtrise technique de Power BI, j'ai conçu mon CV sous forme de Tableau de Bord interactif.
 
-> **[Démonstration dynamique du dashboard](https://github.com/user-attachments/assets/706893a9-2214-48c9-9b89-6b5325312e4e)**
+> **[Démonstration dynamique du dashboard : ]**
+> [Voir](https://github.com/user-attachments/assets/706893a9-2214-48c9-9b89-6b5325312e4e)
 > 
 > ![Aperçu CV Power BI](https://github.com/user-attachments/files/30338925/cv_pbi.pdf)
 > 
