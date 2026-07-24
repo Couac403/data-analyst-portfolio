@@ -1,0 +1,13 @@
+select
+    coalesce(nullif(age, ''), 'unknown') as age_group,
+    coalesce(nullif(lower(ep_measure), ''), 'unknown') as base_measure_pop,
+    cast(try_to_number(geo) as integer) as geo_id,
+    coalesce(nullif(lower(geo_object), ''), 'unknown') as geo_type,
+    coalesce(nullif(lower(sex), ''), 'other') as gender,
+    coalesce(nullif(lower(unit_measure), ''), 'unknown') as unit_measure,
+    coalesce(nullif(lower(obs_status), ''),'unknown') as obs_status,
+    time_period as year,
+    obs_value as total_population
+from {{source('openclassrooms','population')}}
+where time_period > 0
+    and obs_value >= 0

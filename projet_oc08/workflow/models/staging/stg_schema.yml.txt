@@ -1,0 +1,78 @@
+version: 2
+
+models:
+
+  - name: stg_students
+    description: "Etudiants inscrits (source : OpenClassrooms)."
+    columns:
+
+      - name: user_id
+        description: "Identifiant de l'étudiant." # à supprimer dès que possible
+        tests:
+          - not_null # peut être en doublon si inscription sur plusieurs années
+
+      - name: path_category_name
+        description: "Pacrcours suivi par l'étudiant."
+        tests:
+          - test_name: accepted_values
+            arguments:
+              values: ['data'] # l'étude est ciblée sur un parcours en particulier
+
+      - name: age_group
+        description: "Tranche d'âge de l'étudiant."
+
+      - name: gender
+        description: "Genre de l'étudiant."
+        tests:
+          - test_name: accepted_values
+            arguments:
+              values: ['f','m','other']
+
+      - name: region
+        description: "Région de domiciliation de l'étudiant."
+
+      - name: year
+        description: "Année d'inscription de l'étudiant."
+
+
+  - name: stg_population # va beaucoup changé au passage à intermediate
+    description: "Population recensée par critères sociodémographiques (source : INSEE)."
+    columns:
+
+      - name: age_group
+        description: "Tranche d'âge."
+      
+      - name: base_measure_pop
+        description: "Mesure des estimations de population." # utile uniquement pour filtrer
+
+      - name: geo_id
+        description: "Identifiant de la zone géographique."
+
+      - name: geo_type
+        description: "Type de la zone géographique." # utile uniquement pour filtrer
+
+      - name: gender
+        description: "Genre."
+
+      - name: unit_measure
+        description: "Unité de mesure." # utile uniquement pour filtrer
+
+      - name: obs_status
+        description: "Statut de l'observation." # utile uniquement pour filtrer
+
+      - name: year
+        description: "Année de mesure."
+          
+
+  - name: stg_regions
+    description: "Table de correspondance des régions (source : INSEE)."
+    columns:
+    
+      - name: geo_id
+        description: "Identifiant de la zone géographique."
+        tests:
+          - not_null
+          - unique
+      
+      - name: region
+        description: "Nom de la région."

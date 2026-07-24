@@ -1,0 +1,4 @@
+select
+    cast(reg as integer) as geo_id,
+    coalesce(nullif(lower(libelle), ''), 'unknown') as region
+from {{source('openclassrooms','regions')}}

@@ -1,0 +1,8 @@
+select
+    replace(user_id, '-', '') as user_id,
+    coalesce(lower(path_category_name), 'unknown') as path_category_name,
+    coalesce(lower(age_group), 'unknown') as age_group,
+    coalesce(lower(gender), 'other') as gender,
+    coalesce(lower(region), 'unknown') as region,
+    try_to_number(year_path_started) as year
+from {{source('openclassrooms','students')}}
