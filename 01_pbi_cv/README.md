@@ -8,7 +8,7 @@ Tableau de bord dynamique retraçant mon parcours, mes compétences et mes réal
 >
 > ![Aperçu CV Power BI](./assets/cv_pbi.png)
 
-## Contenu et téléchargements
+## Contenu du dossier et téléchargements
 * [`cv_pbi.pbix`](./cv_pbi.pbix) : Rapport Power BI.
 * [`cv_pbi.pdf`](./cv_pbi.pdf) : Version statique imprimable.
 * [`data/data_cv.xlsx`](./data/data_cv.xlsx) : Données sources du rapport Power BI.
