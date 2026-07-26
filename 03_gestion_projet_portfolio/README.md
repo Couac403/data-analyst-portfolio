@@ -17,4 +17,4 @@ Cadrage du projet de création du portfolio, planification temporelle (Gantt) et
 
 ## Compétences
 * **Techniques :** Power BI
-* **Relationnelles :** Storytelling, sensibilité métiers, gestion de projet
+* **Relationnelles :** Storytelling, Sensibilité Métiers, Gestion de Projet
