@@ -1,7 +1,7 @@
-# CV interactif sur Power BI
+# CV interactif
 
 ## Présentation
-Rapport Power BI interactif conçu pour présenter mon parcours professionnel, mes compétences techniques et mes réalisations clés de manière dynamique.
+Tableau de bord dynamique retraçant mon parcours, mes compétences et mes réalisations.
 
 ## CV Power BI
 > **Démonstration dynamique du dashboard :**
