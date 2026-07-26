@@ -15,6 +15,7 @@ Tableau de bord à fort impact stratégique pour évaluer l'accès aux ressource
 * [`dashboard.pbix`](./dashboard.pbix) : Rapport Power BI.
 * [`dashboard.pdf`](./dashboard.pdf) : Version statique imprimable.
 * [`presentation.pdf`](./presentation.pdf) : Support de présentation.
+* [`dashboard.png`](./assets/dashboard.png) : Illustration du rapport.
 
 ## Compétences
 * **Techniques :** Power BI 
