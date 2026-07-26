@@ -1,4 +1,4 @@
-[Accueil](https://couac403.github.io/data-analyst-portfolio/) | [Mon CV interactif](./01_pbi_cv/) | [Mon LinkedIn](https://www.linkedin.com/in/mounier-florian) | [Me contacter par mail](mailto:florian.mounier@ikmail.com)
+[Accueil](https://couac403.github.io/data-analyst-portfolio/) | [CV interactif](./01_pbi_cv/) | [LinkedIn](https://www.linkedin.com/in/mounier-florian) | [Me contacter par mail](mailto:florian.mounier@ikmail.com)
 
 ---
 
