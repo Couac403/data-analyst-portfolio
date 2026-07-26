@@ -16,6 +16,6 @@ Rapport Power BI interactif conçu pour présenter mon parcours professionnel, m
 * `data/data_cv.xlsx` : Données sources du rapport Power BI.
 
 ## Technique
-* **Outil :** Power BI Desktop, Excel.
+* **Outil :** Power BI Desktop.
 * **Langage :** Power Query (M).
 
