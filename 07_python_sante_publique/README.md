@@ -5,7 +5,7 @@
 # Étude de Santé Publique
 
 ## Présentation
-Analyse de la disponibilité alimentaire mondiale sur la période 2013-2017.
+Analyse de la disponibilité alimentaire mondiale sur la période 2013-2017. Mission fictive pour la Food and Agriculture Organization of the United Nations (FAO).
 
 ## Contenu du dossier et téléchargements
 * [`notebook.ipynb`](./notebook.ipynb) : Notebook contenant l'ensemble du travail en Python.
