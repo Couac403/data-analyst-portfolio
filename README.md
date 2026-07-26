@@ -37,7 +37,7 @@ Afin de combiner présentation professionnelle et maîtrise technique de Power B
 | **Profils sociodémographiques** | DBT Cloud, Snowflakes | MMise en corrélation des caractéristiques sociodémographiques et segmentation des étudiants d'OpenClassrooms. | [Voir](./11_dbt_snowflake_etudiants/) |
 | **Analyse des ventes d'une librairie** | Python, statistiques, Sens Business | Analyse statistique bivariée, test d'hypothèses et segmentation de la clientèle. | [Voir](./12_python_analyse_librairie/) |
 | **Accès mondial à l'eau potable** | Power BI, Storytelling | Tableau de bord à fort impact stratégique pour évaluer l'accès aux ressources sanitaires. | [Voir](./13_pbi_eau_potable/) |
-| **Étude de Marché Agroalimentaire** | Python, Storytelling, Sens Business, Sensibilité Métiers | Classification ascendante hiérarchique et ACP pour cibler les pays à fort potentiel. | [Voir](./14_python_etude_marche/) |
+| **Étude de Marché Agroalimentaire** | Python, Storytelling, Sens Business, Sensibilité Métiers | Classification ascendante hiérarchique et ACP pour cibler les pays à fort potentiel avec l'objectif de se développer à l'international. | [Voir](./14_python_etude_marche/) |
 | **Détection de Faux Billets** | Python, Machine Learning | Test et création d'un pipeline de machine learning pour la détection de faux billets. | [Voir](./15_python_ml_billets/) |
 
 ---
