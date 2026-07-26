@@ -1,7 +1,7 @@
-# Gestion de Projet Analytics
+# Pilotage de projet
 
 ## Présentation
-Cadrage fonctionnel et méthodologique pour l'élaboration d'un portfolio adapté à une candidature professionnelle.
+Cadrage du projet de création du portfolio, planification temporelle (Gantt) et chiffrage des coûts.
 
 **Dashboard projet (Gantt et tableau des coûts) :** 
 >
