@@ -7,9 +7,9 @@
 ## Présentation
 Tableau de bord à fort impact stratégique pour évaluer l'accès aux ressources sanitaires.
 
-> **Illustration de la vue contientale pour l'Afrique :**
+> **Illustration de la vue nationale pour la Gambie :**
 > 
-> ![Aperçu CV Power BI](./assets/dashboard.png)
+> ![dashboard](./assets/dashboard.png)
 
 ## Contenu du dossier et téléchargements
 * [`dashboard.pbix`](./dashboard.pbix) : Rapport Power BI.
