@@ -5,7 +5,11 @@
 # Tableau de bord dynamique de suivi de projets
 
 ## Présentation
-Tableau de bord opérationnel avec alertes personnalisées selon le rôle utilisateur.
+Tableau de bord opérationnel avec alertes personnalisées selon le rôle utilisateur pour l'entreprise fictive Sanitoral.
+
+> **Illustration de la vue du Directeur Régional Europe Occidentale :**
+> 
+> ![Aperçu CV Power BI](./assets/tableau_de_bord.png)
 
 ## Contenu du dossier et téléchargements
 * [`tableau_de_bord.pbix`](./tableau_de_bord.pbix) : Rapport Power BI.
