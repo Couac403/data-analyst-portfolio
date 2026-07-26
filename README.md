@@ -10,7 +10,7 @@ Bienvenue sur mon portfolio, il rassemble les projets en **Business Intelligence
 Afin de combiner présentation professionnelle et maîtrise technique de Power BI, j'ai conçu mon CV sous forme de tableau de bord interactif mettant en lien mes compétences techniques et relationnelles avec mes expériences professionnelles, formations et projets présentés dans ce portfolio.
 
 > **Démonstration dynamique du dashboard :**
-> [Voir](https://github.com/user-attachments/assets/706893a9-2214-48c9-9b89-6b5325312e4e)
+> [Voir](./01_pbi_cv/assets/demo_cv_pbi.mov)
 > 
 > ![Aperçu CV Power BI](./01_pbi_cv/assets/cv_pbi.png)
 >
