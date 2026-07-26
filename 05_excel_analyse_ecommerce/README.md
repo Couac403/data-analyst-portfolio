@@ -4,7 +4,7 @@
 Reporting mensuel de performance des ventes et analyse des données client.
 
 ## Rapport Février 2020
->[rapport_mensuel.pdf](./05_excel_analyse_ecommerce/rapport_mensuel.pdf)
+>[rapport_mensuel.pdf](./rapport_mensuel.pdf)
 
 ## Contenu du dossier
 * `clients_affilies.xlsx` : Fichier de calcul et d'analyse des ventes mensuelles des clients affiliés.
