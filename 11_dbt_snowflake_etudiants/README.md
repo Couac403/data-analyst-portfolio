@@ -7,7 +7,7 @@ Mise en corrélation des caractéristiques sociodémographiques et segmentation 
 * [`fichier.csv`](./fichier.csv) : Fichier CSV final extrait de Snowflakes.
 * [`presentation.pdf`](./presentation.pdf) : Support de présentation.
 * [`workflow.zip`](./workflow.zip) : Dossier compressé téléchargeable du workflow documenté (tests et commentaires) de DBT Cloud.
-* 
+
 ## Compétences
 * **Techniques :** DBT Cloud, Snowflakes
 * **Relationnelles :** Storytelling
