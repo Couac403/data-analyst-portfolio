@@ -17,4 +17,4 @@ Présentation vidéo de la création d'un rapport Power BI de gestion de projet 
 
 ## Compétences
 * **Techniques :** Power BI, QuickTime Player, Final Cut Pro.
-* **Relationnelles :** Storytelling, relation client.
+* **Relationnelles :** Relation client.
