@@ -19,10 +19,10 @@ Afin de combiner présentation professionnelle et maîtrise technique de Power B
 
 ## Sommaire des Projets
 
-| Projet | Technologies | Description | Lien |
+| Projet | Outil / Méthode | Description | Lien |
 | :--- | :--- | :--- | :---: |
-| **CV interactif** | Power BI, Excel, Power Query (M) | Dashboard interactif retraçant mon parcours, compétences et réalisations. | [Voir](./01_cv_pbi/) |
-| **Innovation Laboratory** | Power BI, Excel, DAX | Dashboard de veille technologique avec fallback DAX dynamique et filtres avancés. | [Voir](./02_veille_pbi/) |
+| **CV interactif** | Power BI, Power Query (M) | Dashboard interactif retraçant mon parcours, compétences et réalisations. | [Voir](./01_cv_pbi/) |
+| **Dashboard de veille technologique** | Power BI, DAX, Power Query (M)| Dashboard de veille technologique avec fallback DAX dynamique et filtres avancés. | [Voir](./02_veille_pbi/) |
 | **Modern Data Stack Pipeline** | Snowflake, dbt Cloud | Modélisation et transformation de données SQL avec respect des normes logiciels. | [Voir](./03_gestion_projet/) |
 | **Analyses Statistiques & Machine Learning** | Python, K-Means, Seaborn | Segmentation d'audience et modélisation prédictive avec visualisation avancée. | [Voir](./03_Projets_Data_Python_SQL/) |
 
