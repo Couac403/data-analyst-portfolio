@@ -4,8 +4,9 @@
 Conception d'une base relationnelle, reqêtages complexes et rédaction d'une méthodologie.
 
 ## Contenu du dossier et téléchargements
-* [`clients_affilies.xlsx`](./clients_affilies.xlsx) : Fichier de calcul et d'analyse des ventes mensuelles des clients affiliés.
-* [`rapport_mensuel.pdf`](./rapport_mensuel.pdf) : Rapport mensuel de Février 2020.
+* [`document_technique.pdf`](./document_technique.pdf) : Méthodologie en version documentaire.
+* [`liste_requetes.pdf`](./liste_requetes.pdf) : Exemples de requêtes SQL simples et complexes.
+* [`methodologie.pdf`](./methodologie.pdf) : Méthodologie en version présentation.
 
 ## Compétences
 * **Techniques :** SQL, Modélisation
