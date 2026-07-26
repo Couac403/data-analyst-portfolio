@@ -4,16 +4,12 @@
 Reporting mensuel de performance des ventes et analyse des données client.
 
 ## Rapport Février 2020
->![cv_pbi.pdf](./rapport_mensuel.pdf)
-
+>![rapport_mensuel.pdf](./05_excel_analyse_ecommerce/rapport_mensuel.pdf)
 
 ## Contenu du dossier
-* `CV_PBI.pbix` : Rapport Power BI.
-* `CV_PBI.pdf` : Version statique imprimable.
-* `data/data_cv.xlsx` : Données sources du rapport Power BI.
+* `clients_affilies.xlsx` : Fichier de calcul et d'analyse des ventes mensuelles des clients affiliés.
+* `rapport_mensuel.pdf` : Rapport mensuel de Février 2020.
 
 ## Compétences
-* **Techniques :** Power BI.
-* **Relationnelles :** Storytelling, sensibilité métiers.
-
-
+* **Techniques :** Excel.
+* **Relationnelles :** Storytelling, Sens Business.
