@@ -41,5 +41,5 @@ Afin de combiner présentation professionnelle et maîtrise technique de Power B
 
 ## Contact & Liens
 
-* **LinkedIn :** [https://www.linkedin.com/in/mounier-florian](https://www.linkedin.com/in/mounier-florian)
-* **Email :** mailto:florian.mounier@ikmail.com
+* **LinkedIn :** [linkedin.com/in/mounier-florian](https://www.linkedin.com/in/mounier-florian)
+* **Email :** [florian.mounier@ikmail.com](mailto:florian.mounier@ikmail.com)
