@@ -19,4 +19,4 @@ Cadrage fonctionnel et méthodologique pour l'élaboration d'un portfolio adapt�
 
 ## Compétences
 * **Techniques :** Power BI.
-* **Relationnelles :** Storytelling, sensibilité métiers.
+* **Relationnelles :** Storytelling, sensibilité métiers, gestion de projet.
