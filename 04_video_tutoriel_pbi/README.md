@@ -1,7 +1,7 @@
-# Démonstration et tutoriel Power BI
+# Tutoriel de création d'un rapport Power BI
 
 ## Présentation
-Présentation vidéo de la création d'un rapport Power BI de gestion de projet avec un diagramme de Gantt et un tableau récapitulatif des coûts.
+Conception d'une capsule vidéo pédagogique pour créer un visuel Gantt sur Power BI.
 
 ## Vidéo : Créer et configurer un diagramme de Gantt dans Power BI
 > **Regarder :** *Cliquez sur l'image ci-dessous pour visionner le tutoriel complet sur YouTube.*
