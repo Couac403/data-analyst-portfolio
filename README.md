@@ -25,11 +25,11 @@ Afin de combiner présentation professionnelle et maîtrise technique de Power B
 | **Veille technologique** | Power BI | Synthèse d'études et de suivis des outils et méthodes liés à la data analyse. | [Voir](./02_veille_tech/) |
 | **Pilotage du projet portfolio Aéroworld** | Power BI, Storytelling, Sensibilité Métiers | Cadrage fonctionnel et méthodologique pour l'élaboration d'un portfolio adapté à une candidature professionnelle. | [Voir](./03_gestion_projet/) |
 | **Tutoriel de création d'un rapport Power BI** | Power BI, Relation Client | Présentation vidéo de la création d'un rapport Power BI de gestion de projet. | [Voir](./04_video_tutoriel_pbi/) |
-| **Analyse de ventes e-commerce** | Excel, Storytelling, Sens Business | Etablissement d'un rapport mensuel des ventes d'un site e-commerce et analyse des données clients. | [Voir](./projet_oc2/) |
-| **Création et requêtage d'une base de données** | SQL, Relation Client | Rédaction d'une méthodologie pour requêter une base de donnée avec SQL. | [Voir](./projet_oc3/) |
-| **Réalisation d'une étude de santé publique** | Python, Storytelling | Analyse poussée de l'équilibre alimentaire mondial entre 2013 et 2017. | [Voir](./projet_oc4/) |
-| **Création, modélisation et interrogation d'une base de données d'une agence immobilière** | SQL, Storytelling | Structure d'une base de donnée robuste et conforme à la RGPD pour prévoir l'évolution des prix des biens immobiliers. | [Voir](./projet_oc5/) |
-| **Optimisation de la gestion des données d'une boutique** | Python, Storytelling, Sens Business | Analyse du catalogue des produits et des ventes et réorganisation de la base de donnée. | [Voir](./projet_oc6/) |
+| **Analyse de ventes e-commerce** | Excel, Storytelling, Sens Business | Etablissement d'un rapport mensuel des ventes d'un site e-commerce et analyse des données clients. | [Voir](./projet_oc02/) |
+| **Création et requêtage d'une base de données** | SQL, Relation Client | Rédaction d'une méthodologie pour requêter une base de donnée avec SQL. | [Voir](./projet_oc03/) |
+| **Réalisation d'une étude de santé publique** | Python, Storytelling | Analyse poussée de l'équilibre alimentaire mondial entre 2013 et 2017. | [Voir](./projet_oc04/) |
+| **Création, modélisation et interrogation d'une base de données d'une agence immobilière** | SQL, Storytelling | Structure d'une base de donnée robuste et conforme à la RGPD pour prévoir l'évolution des prix des biens immobiliers. | [Voir](./projet_oc05/) |
+| **Optimisation de la gestion des données d'une boutique** | Python, Storytelling, Sens Business | Analyse du catalogue des produits et des ventes et réorganisation de la base de donnée. | [Voir](./projet_oc06/) |
 
 ---
 
