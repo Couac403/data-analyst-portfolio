@@ -1,4 +1,4 @@
-# Veille technologique Data & BI
+# Veille technologique
 
 ## Présentation
 Synthèse d'études et de suivis des outils et méthodes liés à la data analyse.
