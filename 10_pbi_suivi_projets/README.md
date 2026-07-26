@@ -9,13 +9,14 @@ Tableau de bord opérationnel avec alertes personnalisées selon le rôle utilis
 
 > **Illustration de la vue du Directeur Régional Europe Occidentale :**
 > 
-> ![Aperçu CV Power BI](./assets/tableau_de_bord.png)
+> ![tableau_de_bord](./assets/tableau_de_bord.png)
 
 ## Contenu du dossier et téléchargements
 * [`tableau_de_bord.pbix`](./tableau_de_bord.pbix) : Rapport Power BI.
 * [`tableau_de_bord.pdf`](./tableau_de_bord.pdf) : Version statique imprimable.
 * [`presentation.pdf`](./presentation.pdf) : Support de présentation.
 * [`psc.pdf`](./psc.pdf) : Product Strategy Canvas du projet.
+* [`tableau_de_bord.png`](./assets/tableau_de_bord.png) : Illustration du rapport.
 
 ## Compétences
 * **Techniques :** Power BI 
