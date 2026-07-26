@@ -3,9 +3,7 @@
 ## Présentation
 Synthèse d'études et de suivis des outils et méthodes liés à la data analyse.
 
-## Dashboard de veille technologique
->
->![veille_pbi.pdf](https://github.com/user-attachments/files/30355715/veille_pbi.pdf)
+>![Aperçu CV Power BI](./assets/veille_pbi.png)
 
 
 ## Contenu du dossier
