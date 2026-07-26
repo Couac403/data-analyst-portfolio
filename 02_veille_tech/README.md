@@ -14,6 +14,6 @@ Synthèse d'études et de suivis des outils et méthodes liés à la data analys
 * `data/data_veille.xlsx` : Données sources du rapport Power BI.
 
 ## Technique
-* **Outil :** Power BI Desktop, Excel.
+* **Outil :** Power BI Desktop.
 * **Langages :** DAX, Power Query (M).
 
