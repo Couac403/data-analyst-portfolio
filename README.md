@@ -19,12 +19,12 @@ Afin de combiner présentation professionnelle et maîtrise technique de Power B
 
 ## Sommaire des Projets
 
-| Projet | Outil / Méthode | Description | Lien |
+| Projet | Compétences clés | Description | Lien |
 | :--- | :--- | :--- | :---: |
-| **CV interactif** | Power BI, Power Query (M) | Dashboard interactif retraçant mon parcours, compétences et réalisations. | [Voir](./01_cv_pbi/) |
-| **Dashboard de veille technologique** | Power BI, DAX, Power Query (M)| Dashboard de veille technologique avec fallback DAX dynamique et filtres avancés. | [Voir](./02_veille_pbi/) |
-| **Modern Data Stack Pipeline** | Snowflake, dbt Cloud | Modélisation et transformation de données SQL avec respect des normes logiciels. | [Voir](./03_gestion_projet/) |
-| **Analyses Statistiques & Machine Learning** | Python, K-Means, Seaborn | Segmentation d'audience et modélisation prédictive avec visualisation avancée. | [Voir](./03_Projets_Data_Python_SQL/) |
+| **CV interactif** | Power BI, storytelling, sensibilité métiers | Rapport Power BI interactif conçu pour présenter mon parcours professionnel, mes compétences techniques et mes réalisations clés de manière dynamique. | [Voir](./01_cv_pbi/) |
+| **Veille technologique** | Power BI | Synthèse d'études et de suivis des outils et méthodes liés à la data analyse. | [Voir](./02_veille_tech/) |
+| **Pilotage du projet portfolio Aéroworld** | Power BI, storytelling, sensibilité métiers | Cadrage fonctionnel et méthodologique pour l'élaboration d'un portfolio adapté à une candidature professionnelle. | [Voir](./03_gestion_projet/) |
+| **Tutoriel de création d'un rapport Power BI** | Power BI, storytelling, relation client. | Présentation vidéo de la création d'un rapport Power BI de gestion de projet. | [Voir](./04_video_tutoriel_pbi/) |
 
 ---
 
