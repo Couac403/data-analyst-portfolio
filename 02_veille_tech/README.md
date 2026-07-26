@@ -14,4 +14,4 @@ Synthèse d'études et de suivis des outils et méthodes liés à la data analys
 * `data/data_veille.xlsx` : Données sources du rapport Power BI.
 
 ## Compétences clés
-* **Techniques :** Power BI Desktop.
+* **Techniques :** Power BI.
