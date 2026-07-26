@@ -12,11 +12,11 @@ Afin de combiner présentation professionnelle et maîtrise technique de Power B
 > **Démonstration dynamique du dashboard :**
 > [Voir](https://github.com/user-attachments/assets/706893a9-2214-48c9-9b89-6b5325312e4e)
 > 
+> ![Aperçu CV Power BI](./01_pbi_cv/assets/cv_pbi.png)
+>
 > **[Télécharger le PBIX](./01_pbi_cv/cv_pbi.pbix)**
 >
 > **[Télécharger le PDF](./01_pbi_cv/cv_pbi.pdf)**
-> 
-> ![Aperçu CV Power BI](./01_pbi_cv/assets/cv_pbi.png)
 
 ---
 
