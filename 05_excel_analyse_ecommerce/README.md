@@ -8,5 +8,5 @@ Reporting mensuel de performance des ventes et analyse des données client de l'
 * [`rapport_mensuel.pdf`](./rapport_mensuel.pdf) : Rapport mensuel de Février 2020.
 
 ## Compétences
-* **Techniques :** Excel.
-* **Relationnelles :** Storytelling, Sens Business.
+* **Techniques :** Excel
+* **Relationnelles :** Storytelling, Sens Business
