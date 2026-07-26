@@ -32,6 +32,10 @@ Afin de combiner présentation professionnelle et maîtrise technique de Power B
 | **Optimisation de la gestion des données d'une boutique** | Python, Storytelling, Sens Business | Analyse du catalogue des produits et des ventes et réorganisation de la base de donnée. | [Voir](./projet_oc06/) |
 | **Création d'un tableau de bord dynamique pour visualiser l'avancement de projets** | Power BI, Storytelling, Sensibilité Métiers | Elaboration d'un outil de suivi des projets et alerters personnalisé par utilisateur. | [Voir](./projet_oc07/) |
 | **Analyse de l'évolution de profils sociodémographiques des étudiants d'OpenClassrooms** | DBT Cloud, Snowflakes, Storytelling | Mise en corrélation des caractéristiques sociodémographiques d'un échantillon pour établir un profil type. | [Voir](./projet_oc08/) |
+| **Analyse des comportements d'achat et ventes d'une librairie** | Python, Storytelling, Sens Business | Etude statistique des ventes d'un site marchand, analyse des corrélations et segmentation de la clientèle. | [Voir](./projet_oc09/) |
+| **Réalisation d'une étude sur l'état mondial de l'accès à l'eau potable** | Power BI, Storytelling, Sens Business, Sensibilité Métiers | Création d'un tableau de bord pour la prise de décisions à fort impact stratégique et sanitaire. | [Voir](./projet_oc10/) |
+| **Elaboration d'une étude de marché pour un développement international** | Python, Storytelling, Sens Business, Sensibilité Métiers | Collecte et analyse de données sur l'alimentation et la stabilité financière et sociale des pays du monde pour cibler le développement international d'une entreprise agroalimentaire française. | [Voir](./projet_oc11/) |
+| **Création d'un outil de détection de faux billets par le machine learning** | Python, Sensibilité Métiers | Création d'un script de détection des faux billets robuste basé sur le machine learning. | [Voir](./projet_oc12/) |
 
 ---
 
