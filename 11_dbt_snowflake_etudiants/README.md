@@ -5,7 +5,7 @@
 # Profils sociodémographiques
 
 ## Présentation
-Mise en corrélation des caractéristiques sociodémographiques et segmentation des étudiants d'OpenClassrooms.
+Mise en corrélation des caractéristiques sociodémographiques et segmentation des étudiants d'OpenClassrooms (mission fictive).
 
 ## Contenu du dossier et téléchargements
 * [`fichier.csv`](./fichier.csv) : Fichier CSV final extrait de Snowflakes.
