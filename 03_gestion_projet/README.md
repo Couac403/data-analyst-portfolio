@@ -18,6 +18,6 @@ Cadrage fonctionnel et méthodologique pour l'élaboration d'un portfolio adapt�
 * `data/data_gantt.xlsx`: Données sources du Gantt.
 
 ## Technique
-* **Outils :** Power BI Desktop,Excel.
+* **Outils :** Power BI Desktop.
 * **Langage :** Power Query (M).
 * **Méthodes :** Gestion de projet.
