@@ -5,7 +5,7 @@
 # Optimisation d'une base de données d'une boutique
 
 ## Présentation
-Etude du catalogue, analyse des ventes et réorganisation de la base de donnée.
+Etude du catalogue, analyse des ventes et réorganisation de la base de donnée pour l'entreprise fictive Bottleneck.
 
 ## Contenu du dossier et téléchargements
 * [`notebook.ipynb`](./notebook.ipynb) : Notebook contenant l'ensemble du travail en Python.
