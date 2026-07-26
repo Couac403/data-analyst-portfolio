@@ -15,7 +15,7 @@ Rapport Power BI interactif conçu pour présenter mon parcours professionnel, m
 * `CV_PBI.pdf` : Version statique imprimable.
 * `data/data_cv.xlsx` : Données sources du rapport Power BI.
 
-## Compétences clés
+## Compétences
 * **Techniques :** Power BI.
 * **Relationnelles :** Storytelling, sensibilité métiers.
 
