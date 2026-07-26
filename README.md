@@ -32,7 +32,7 @@ Afin de combiner présentation professionnelle et maîtrise technique de Power B
 | **Base de données et requêtage SQL** | SQL, Modélisation | Conception d'une base relationnelle, reqêtages complexes et rédaction d'une méthodologie. | [Voir](./06_sql_requetage/) |
 | **Étude de Santé Publique** | Python, Storytelling | Analyse de la disponibilité alimentaire mondiale sur la période 2013-2017. | [Voir](./07_python_sante_publique/) |
 | **Modélisation d'une base de données immobilière** | SQL, RGPD, Modélisation | BDD relationnelle conforme RGPD pour l'analyse prospective des prix de l'immobilier. | [Voir](./08_sql_immobilier/) |
-| **Optimisation d'une base de données d'une boutique** | Python, Sens Business | Etude du catalogue, analyse des ventes et réorganisation de la base de donnée. | [Voir](./09_python_optimisation_bdd/) |
+| **Optimisation d'une base de données d'une boutique** | Python, Sens Business | Etude du catalogue, analyse des ventes et réorganisation de la base de donnée d'une boutique. | [Voir](./09_python_optimisation_bdd/) |
 | **Tableau de bord dynamique de suivi de projets** | Power BI, Sensibilité Métiers | Tableau de bord opérationnel avec alertes personnalisées selon le rôle utilisateur. | [Voir](./10_pbi_suivi_projets/) |
 | **Profils sociodémographiques** | DBT Cloud, Snowflakes | MMise en corrélation des caractéristiques sociodémographiques et segmentation des étudiants d'OpenClassrooms. | [Voir](./11_dbt_snowflake_etudiants/) |
 | **Analyse des ventes d'une librairie** | Python, statistiques, Sens Business | Analyse statistique bivariée, test d'hypothèses et segmentation de la clientèle. | [Voir](./12_python_analyse_librairie/) |
