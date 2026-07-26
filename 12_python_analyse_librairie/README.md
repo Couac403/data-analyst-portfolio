@@ -5,7 +5,7 @@
 # Analyse des ventes d'une librairie
 
 ## Présentation
-Analyse statistique bivariée, test d'hypothèses et segmentation de la clientèle.
+Analyse statistique bivariée, test d'hypothèses et segmentation de la clientèle pour l'entreprise fictive Lapage.com.
 
 ## Contenu du dossier et téléchargements
 * [`notebook.ipynb`](./notebook.ipynb) : Notebook contenant l'ensemble du travail en Python.
