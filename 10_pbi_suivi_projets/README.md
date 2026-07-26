@@ -6,7 +6,8 @@ Tableau de bord opérationnel avec alertes personnalisées selon le rôle utilis
 ## Contenu du dossier et téléchargements
 * [`tableau_de_bord.pbix`](./tableau_de_bord.pbix) : Rapport Power BI.
 * [`tableau_de_bord.pdf`](./tableau_de_bord.pdf) : Version statique imprimable.
-* [`presentation.pdf`](./presentation.pptx) : Support de présentation.
+* [`presentation.pdf`](./presentation.pdf) : Support de présentation.
+* [`psc`](./psc.pdf) : Product Strategy Canvas du projet.
 
 ## Compétences
 * **Techniques :** Power BI 
