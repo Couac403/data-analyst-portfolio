@@ -15,7 +15,6 @@ Présentation vidéo de la création d'un rapport Power BI de gestion de projet 
 * `doc.pdf` : Procédure documentaire.
 * `assets/lien_video.md` : Lien vers la vidéo Youtube du tutoriel.
 
-## Technique
-* **Outils :** Power BI Desktop, QuickTime Player, Final Cut Pro.
-* **Langage :** Power Query (M).
-
+## Compétences
+* **Techniques :** Power BI, QuickTime Player, Final Cut Pro.
+* **Relationnelles :** Storytelling, relation client.
