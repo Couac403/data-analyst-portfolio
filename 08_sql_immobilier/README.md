@@ -8,6 +8,5 @@ BDD relationnelle conforme RGPD pour l'analyse prospective des prix de l'immobil
 * [`presentation.pdf`](./presentation.pptx) : Support de présentation.
 
 ## Compétences
-* **Langages :** SQL
+* **Techniques :** SQL, RGPD, Modélisation
 * **Relationnelles :** Storytelling
-* **Méthode :** RGPD, Modélisation
