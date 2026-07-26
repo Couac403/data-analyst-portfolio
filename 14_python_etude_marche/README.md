@@ -5,7 +5,7 @@
 # Étude de Marché Agroalimentaire
 
 ## Présentation
-Classification ascendante hiérarchique et ACP pour cibler les pays à fort potentiel.
+Classification ascendante hiérarchique et ACP pour cibler les pays à fort potentiel avec l'objectif de se développer à l'international.
 
 ## Contenu du dossier et téléchargements
 * [`notebook_analyse_exploratoire.ipynb`](./notebook_analyse_exploratoire.ipynb) : Notebook contenant la préparation, le nettoyage et l'analyse exploratoire en Python.
