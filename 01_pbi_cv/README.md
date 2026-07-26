@@ -1,3 +1,5 @@
+[Accueil](https://couac403.github.io/data-analyst-portfolio/) | [Mon LinkedIn](https://www.linkedin.com/in/mounier-florian) | [Me contacter par mail](mailto:florian.mounier@ikmail.com)
+
 # CV interactif
 
 ## Présentation
