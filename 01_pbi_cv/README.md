@@ -16,5 +16,5 @@ Tableau de bord dynamique retraçant mon parcours, mes compétences et mes réal
 * [`demo_cv_pbi.mov`](./assets/demo_cv_pbi.mov) : Démonstration du rapport.
 
 ## Compétences
-* **Techniques :** Power BI.
-* **Relationnelles :** Storytelling, sensibilité métiers.
+* **Techniques :** Power BI
+* **Relationnelles :** Storytelling, sensibilité métiers
