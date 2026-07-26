@@ -21,27 +21,15 @@ Afin de combiner présentation professionnelle et maîtrise technique de Power B
 
 | Projet | Compétences clés | Description | Lien |
 | :--- | :--- | :--- | :---: |
-| **CV interactif** | Power BI, storytelling, sensibilité métiers | Rapport Power BI interactif conçu pour présenter mon parcours professionnel, mes compétences techniques et mes réalisations clés de manière dynamique. | [Voir](./01_cv_pbi/) |
+| **CV interactif** | Power BI, Storytelling, Sensibilité Métiers | Rapport Power BI interactif conçu pour présenter mon parcours professionnel, mes compétences techniques et mes réalisations clés de manière dynamique. | [Voir](./01_cv_pbi/) |
 | **Veille technologique** | Power BI | Synthèse d'études et de suivis des outils et méthodes liés à la data analyse. | [Voir](./02_veille_tech/) |
-| **Pilotage du projet portfolio Aéroworld** | Power BI, storytelling, sensibilité métiers | Cadrage fonctionnel et méthodologique pour l'élaboration d'un portfolio adapté à une candidature professionnelle. | [Voir](./03_gestion_projet/) |
-| **Tutoriel de création d'un rapport Power BI** | Power BI, storytelling, relation client. | Présentation vidéo de la création d'un rapport Power BI de gestion de projet. | [Voir](./04_video_tutoriel_pbi/) |
-
----
-
-## Stack Technique
-
-* **Business Intelligence :** Power BI (DAX, Power Query, Modélisation en étoile)
-* **Data Engineering & Cloud :** Snowflake, dbt Cloud, SQL
-* **Data Science & Analytics :** Python (Pandas, Scikit-Learn, Matplotlib, Seaborn)
-* **Outillage & Méthodes :** Git/GitHub, Excel, Documentation technique & vidéo
-
----
-
-## Support & Formation
-
-Retrouvez également dans ce repository :
-* Fiches pratiques et procédures au format **infinitif** pour la prise en main des visuels Power BI.
-* Scripts d'accompagnement vidéo pour la formation d'utilisateurs.
+| **Pilotage du projet portfolio Aéroworld** | Power BI, Storytelling, Sensibilité Métiers | Cadrage fonctionnel et méthodologique pour l'élaboration d'un portfolio adapté à une candidature professionnelle. | [Voir](./03_gestion_projet/) |
+| **Tutoriel de création d'un rapport Power BI** | Power BI, Relation Client | Présentation vidéo de la création d'un rapport Power BI de gestion de projet. | [Voir](./04_video_tutoriel_pbi/) |
+| **Analyse de ventes e-commerce** | Excel, Storytelling, Sens Business | Etablissement d'un rapport mensuel des ventes d'un site e-commerce et analyse des données clients. | [Voir](./projet_oc2/) |
+| **Création et requêtage d'une base de données** | SQL, Relation Client | Rédaction d'une méthodologie pour requêter une base de donnée avec SQL. | [Voir](./projet_oc3/) |
+| **Réalisation d'une étude de santé publique** | Python, Storytelling | Analyse poussée de l'équilibre alimentaire mondial entre 2013 et 2017. | [Voir](./projet_oc4/) |
+| **Création, modélisation et interrogation d'une base de données d'une agence immobilière** | SQL, Storytelling | Structure d'une base de donnée robuste et conforme à la RGPD pour prévoir l'évolution des prix des biens immobiliers. | [Voir](./projet_oc5/) |
+| **Optimisation de la gestion des données d'une boutique** | Python, Storytelling, Sens Business | Analyse du catalogue des produits et des ventes et réorganisation de la base de donnée. | [Voir](./projet_oc6/) |
 
 ---
 
