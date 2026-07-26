@@ -17,4 +17,4 @@ Tableau de bord dynamique retraçant mon parcours, mes compétences et mes réal
 
 ## Compétences
 * **Techniques :** Power BI
-* **Relationnelles :** Storytelling, sensibilité métiers
+* **Relationnelles :** Storytelling, Sensibilité Métiers
