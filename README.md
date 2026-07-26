@@ -30,6 +30,8 @@ Afin de combiner présentation professionnelle et maîtrise technique de Power B
 | **Réalisation d'une étude de santé publique** | Python, Storytelling | Analyse poussée de l'équilibre alimentaire mondial entre 2013 et 2017. | [Voir](./projet_oc04/) |
 | **Création, modélisation et interrogation d'une base de données d'une agence immobilière** | SQL, Storytelling | Structure d'une base de donnée robuste et conforme à la RGPD pour prévoir l'évolution des prix des biens immobiliers. | [Voir](./projet_oc05/) |
 | **Optimisation de la gestion des données d'une boutique** | Python, Storytelling, Sens Business | Analyse du catalogue des produits et des ventes et réorganisation de la base de donnée. | [Voir](./projet_oc06/) |
+| **Création d'un tableau de bord dynamique pour visualiser l'avancement de projets** | Power BI, Storytelling, Sensibilité Métiers | Elaboration d'un outil de suivi des projets et alerters personnalisé par utilisateur. | [Voir](./projet_oc07/) |
+| **Analyse de l'évolution de profils sociodémographiques des étudiants d'OpenClassrooms** | DBT Cloud, Snowflakes, Storytelling | Mise en corrélation des caractéristiques sociodémographiques d'un échantillon pour établir un profil type. | [Voir](./projet_oc08/) |
 
 ---
 
