@@ -1,5 +1,5 @@
 
-# Portfolio Data & Analytics de Florian Mounier
+# Portfolio Data et Analytics de Florian Mounier
 
 Bienvenue sur mon portfolio. Il rassemble les projets en **Business Intelligence**, **Data Engineering** et **Data Science** que j'ai réalisés jusqu'à présent et sera alimenté au fil de ceux à venir.
 
