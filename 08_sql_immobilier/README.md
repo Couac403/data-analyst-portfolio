@@ -7,6 +7,8 @@
 ## Présentation
 BDD relationnelle conforme RGPD pour l'analyse prospective des prix de l'immobilier.
 
+La première étape du projet est de structurer une base de données immobilière robuste et conforme (notamment RGPD ), afin d'établir un socle analytique précis permettant ultérieurement la prévision fiable du prix de vente des biens immobiliers.
+
 ### **Extrait du rapport :**
 >
 ![`presentation.png`](./assets/presentation.png)
