@@ -7,7 +7,7 @@
 ## Présentation
 Tableau de bord dynamique retraçant mon parcours, mes compétences et mes réalisations.
 
-[**Démonstration dynamique du dashboard :**](./assets/demo_cv_pbi.mov)
+[**Démonstration dynamique du dashboard**](./assets/demo_cv_pbi.mov)
 >
 ![Aperçu CV Power BI](./assets/cv_pbi.png)
 
