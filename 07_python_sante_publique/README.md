@@ -7,10 +7,20 @@
 ## Présentation
 Analyse de la disponibilité alimentaire mondiale sur la période 2013-2017.
 
+### **Extrait du notebook en Python :**
+>
+![`notebook.png`](./assets/notebook.png)
+>
+### **Extrait du rapport :**
+>
+![`presentation.png`](./assets/presentation.png)
+
 ## Contenu du dossier et téléchargements
 * [`notebook.ipynb`](./notebook.ipynb) : Notebook contenant l'ensemble du travail en Python.
 * [`notebook.pdf`](./notebook.pdf) : Notebook imprimable.
 * [`presentation.pdf`](./presentation.pdf) : Support de présentation.
+* [`notebook.png`](./assets/notebook.png) : Illustration du notebook.
+* [`presentation.png`](./assets/presentation.png) : Illustration de la présentation.
 
 ## Compétences
 * **Techniques :** Pyhton
