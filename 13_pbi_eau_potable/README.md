@@ -7,6 +7,8 @@
 ## Présentation
 Tableau de bord à fort impact stratégique pour évaluer l'accès aux ressources sanitaires.
 
+Transformer les données mondiales en leviers stratégiques, permettant à la DWFA de cibler avec précision ses investissements pour un impact maximal sur l'accès universel à l'eau potable.
+
 > **Illustration de la vue nationale pour la Gambie :**
 > 
 > ![dashboard](./assets/dashboard.png)
