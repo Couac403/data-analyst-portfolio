@@ -7,11 +7,11 @@
 ## Présentation
 Reporting mensuel de performance des ventes et analyse des données client.
 
-**Visuels du reporting :**
+### **Visuels du reporting :**
 >
 ![clients_affilies.png](./assets/clients_affilies.png)
 >
-**Extrait du rapport mensuel :**
+### **Extrait du rapport mensuel :**
 >
 ![rapport_mensuel.png](./assets/rapport_mensuel.png)
 
