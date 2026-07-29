@@ -15,6 +15,7 @@ Une base de données à jour, propre et cohérente est un socle solide pour un p
 >
 ![`presentation2.png`](./assets/presentation2.png)
 
+
 ## Contenu du dossier et téléchargements
 * [`notebook.ipynb`](./notebook.ipynb) : Notebook contenant l'ensemble du travail en Python.
 * [`notebook.pdf`](./notebook.pdf) : Notebook imprimable.
