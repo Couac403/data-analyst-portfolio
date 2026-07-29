@@ -5,7 +5,9 @@
 # Tableau de bord dynamique de suivi de projets
 
 ## Présentation
-Tableau de bord opérationnel avec alertes personnalisées selon le rôle utilisateur pour l'entreprise fictive Sanitoral.
+Tableau de bord opérationnel avec alertes personnalisées selon le rôle utilisateur.
+
+Se servir de ces tableaux de bord comme un déclencheur d'actions immédiates en optimisant la chaîne décisionnelle et en réduisant la latence entre la détection d'un problème et la mesure corrective.
 
 > **Illustration de la vue du Directeur Régional Europe Occidentale :**
 > 
