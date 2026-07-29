@@ -11,7 +11,7 @@ Cadrage du projet de création du portfolio, planification temporelle (Gantt) et
 >
 >![gantt.png](./assets/gantt.png)
 >
->**Indicateur PageSpeed Insights du portfolio pour la navigation sur ordinateur :**
+**Indicateur PageSpeed Insights du portfolio pour la navigation sur ordinateur :**
 >![`pagespeed.png`](./assets/pagespeed.png)
 > 
 ## Contenu du dossier
