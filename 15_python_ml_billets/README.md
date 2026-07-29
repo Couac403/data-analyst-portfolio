@@ -19,6 +19,8 @@ Test et création d'un pipeline de machine learning pour la détection de faux b
 * [`notebook_script.ipynb`](./notebook_script.ipynb) : Notebook contenant le script final en Python.
 * [`notebook_script.pdf`](./notebook_script.pdf) : Notebook contenant le script final imprimable.
 * [`presentation.pdf`](./presentation.pdf) : Support de présentation.
+* [`presentation1.png`](./assets/presentation1.png) : Illustration de la présentation.
+* [`presentation2.png`](./assets/presentation2.png) : Illustration de la présentation.
 
 ## Compétences
 * **Techniques :** Python, Machine Learning
