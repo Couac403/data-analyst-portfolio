@@ -11,7 +11,6 @@ Conception d'une base relationnelle, requêtages complexes et rédaction d'une m
 >
 >![`document_technique.png`](./assets/document_technique.png)
 >
->
 ### **Exemple de requête complexe :**
 >
 >![`liste_requetes.png`](./assets/liste_requetes.png)
