@@ -9,9 +9,9 @@ Tableau de bord à fort impact stratégique pour évaluer l'accès aux ressource
 
 Transformer les données mondiales en leviers stratégiques, permettant à la DWFA de cibler avec précision ses investissements pour un impact maximal sur l'accès universel à l'eau potable.
 
-> **Illustration de la vue nationale pour la Gambie :**
+### **Illustration de la vue nationale pour la Gambie :**
 > 
-> ![dashboard](./assets/dashboard.png)
+![dashboard](./assets/dashboard.png)
 
 ## Contenu du dossier et téléchargements
 * [`dashboard.pbix`](./dashboard.pbix) : Rapport Power BI.
