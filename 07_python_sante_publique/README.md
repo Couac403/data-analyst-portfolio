@@ -7,6 +7,8 @@
 ## Présentation
 Analyse de la disponibilité alimentaire mondiale sur la période 2013-2017.
 
+En 2017, la production mondiale était suffisante pour nourrir la quasi-totalité de la population, mais des inégalités, des choix économiques et les conflits empêchent des millions de personnes de manger à leur faim.
+
 ### **Extrait du notebook en Python :**
 >
 ![`notebook.png`](./assets/notebook.png)
