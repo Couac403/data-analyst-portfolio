@@ -10,6 +10,9 @@ Cadrage du projet de création du portfolio, planification temporelle (Gantt) et
 **Dashboard projet (Gantt et tableau des coûts) :** 
 >
 >![gantt.png](./assets/gantt.png)
+>
+>**Indicateur PageSpeed Insights du portfolio pour la navigation sur ordinateur :**
+>![`pagespeed.png`](./assets/pagespeed.png)
 > 
 ## Contenu du dossier
 * [`besoins_aeroworld.pdf`](./besoins_aeroworld.pdf) : Expression et analyse des besoins métiers de l'employeur.
@@ -18,6 +21,9 @@ Cadrage du projet de création du portfolio, planification temporelle (Gantt) et
 * [`gantt.pdf`](./gantt.pdf) : Version statique imprimable du diagramme de Gantt.
 * [`data_gantt.xlsx`](./data/data_gantt.xlsx) : Données sources du Gantt.
 * [`gantt.png`](./assets/gantt.png) : Illustration du rapport.
+* [`pagespeed_mobile.pdf`](./pagespeed_mobile.pdf) : Indicateur PageSpeed Insights pour la navigation sur mobile.
+* [`pagespeed_ordinateur.pdf`](./pagespeed_ordinateur.pdf) : Indicateur PageSpeed Insights pour la navigation sur ordinateur.
+* [`pagespeed.png`](./assets/pagespeed.png) : Illustration de l'indicateur PageSpeed Insights pour la navigation sur ordinateur.
 
 ## Compétences
 * **Techniques :** Power BI
