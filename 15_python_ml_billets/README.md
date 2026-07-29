@@ -7,6 +7,7 @@
 ## Présentation
 Application d'un modèle solide de machine learning pour détecter avec une précision de 99% les faux billets en fonction de leurs dimensions.
 
+
 ### **Extraits du rapport :**
 >
 ![`presentation1.png`](./assets/presentation1.png)
