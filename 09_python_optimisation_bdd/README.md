@@ -7,6 +7,8 @@
 ## Présentation
 Etude du catalogue, analyse des ventes et réorganisation de la base de donnée d'une boutique.
 
+Une base de données à jour, propre et cohérente est un socle solide pour un pilotage stratégique fort et pérenne grâce auquel nous pouvons comprendre le passé, maîtriser le présent et prévoir le futur.
+
 ### **Extrait du rapport :**
 >
 ![`presentation1.png`](./assets/presentation1.png)
