@@ -7,12 +7,20 @@
 ## Présentation
 Classification ascendante hiérarchique et ACP pour cibler les pays à fort potentiel avec l'objectif de se développer à l'international.
 
+### **Extraits du rapport :**
+>
+![`presentation1.png`](./assets/presentation1.png)
+>
+![`presentation2.png`](./assets/presentation2.png)
+
 ## Contenu du dossier et téléchargements
 * [`notebook_analyse_exploratoire.ipynb`](./notebook_analyse_exploratoire.ipynb) : Notebook contenant la préparation, le nettoyage et l'analyse exploratoire en Python.
 * [`notebook_analyse_exploratoire.pdf`](./notebook_analyse_exploratoire.pdf) : Notebook contenant la préparation, le nettoyage et l'analyse exploratoire imprimable.
 * [`notebook_clustering_visualisations.ipynb`](./notebook_clustering_visualisations.ipynb) : Notebook contenant le clustering et la visualisation en Python.
 * [`notebook_clustering_visualisations.pdf`](./notebook_clustering_visualisations.pdf) : Notebook contenant le clustering et la visualisation imprimable.
 * [`presentation.pdf`](./presentation.pdf) : Support de présentation.
+* [`presentation1.png`](./assets/presentation1.png) : Illustration de la présentation.
+* [`presentation2.png`](./assets/presentation2.png) : Illustration de la présentation.
 
 ## Compétences
 * **Techniques :** Python
