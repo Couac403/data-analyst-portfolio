@@ -7,6 +7,12 @@
 ## Présentation
 Test et création d'un pipeline de machine learning pour la détection de faux billets.
 
+### **Extraits du rapport :**
+>
+![`presentation1.png`](./assets/presentation1.png)
+>
+![`presentation2.png`](./assets/presentation2.png)
+
 ## Contenu du dossier et téléchargements
 * [`notebook_analyse.ipynb`](./notebook_analyse.ipynb) : Notebook contenant l'ensemble du travail préparatoire en Python.
 * [`notebook_analyse.pdf`](./notebook_analyse.pdf) : Notebook contenant l'ensemble du travail préparatoire imprimable.
