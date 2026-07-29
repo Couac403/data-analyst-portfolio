@@ -7,9 +7,19 @@
 ## Présentation
 BDD relationnelle conforme RGPD pour l'analyse prospective des prix de l'immobilier.
 
+### **Extrait du rapport :**
+>
+![`presentation.png`](./assets/presentation.png)
+>
+### **Exemple de requête complexe :**
+>
+![`requete.png`](./assets/requete.png)
+
 ## Contenu du dossier et téléchargements
 * [`dictionnaire_de_donnees.xlsx`](./dictionnaire_de_donnees.xlsx) : Dictionnaire de données du projet.
 * [`presentation.pdf`](./presentation.pdf) : Support de présentation.
+* [`presentation.png`](./assets/presentation.png) : Illustration de la présentation.
+* [`requete.png`](./assets/requete.png) : Illustration d'une requête complexe.
 
 ## Compétences
 * **Techniques :** SQL, RGPD, Modélisation
