@@ -7,6 +7,8 @@
 ## Présentation
 Classification ascendante hiérarchique et ACP pour cibler les pays à fort potentiel avec l'objectif de se développer à l'international.
 
+Transformer une base de données mondiale complexe en indicateurs de décision clairs permet de filtrer 125 marchés pour extraire une sélection de 6 pays présentant la plus forte affinité économique, logistique et culturelle avec un modèle de volailles bio.
+
 ### **Extraits du rapport :**
 >
 ![`presentation1.png`](./assets/presentation1.png)
