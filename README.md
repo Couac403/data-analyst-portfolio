@@ -37,7 +37,7 @@ Afin de combiner présentation professionnelle et maîtrise technique de Power B
 | [**Analyse des ventes d'une librairie**](./12_python_analyse_librairie/) | Python, Statistiques, Sens Business | Analyse statistique bivariée, test d'hypothèses et segmentation de la clientèle. |
 | [**Accès mondial à l'eau potable**](./13_pbi_eau_potable/) | Power BI, Storytelling | Tableau de bord à fort impact stratégique pour évaluer l'accès aux ressources sanitaires. |
 | [**Étude de Marché Agroalimentaire**](./14_python_etude_marche/) | Python, Storytelling, Sens Business, Sensibilité Métiers | Classification ascendante hiérarchique et ACP pour cibler les pays à fort potentiel avec l'objectif de se développer à l'international. |
-| [**Détection de Faux Billets**](./15_python_ml_billets/) | Python, Machine Learning | Test et création d'un pipeline de machine learning pour la détection de faux billets. |
+| [**Détection de Faux Billets**](./15_python_ml_billets/) | Python, Machine Learning | Application d'un modèle solide de machine learning pour détecter avec une précision de 99% les faux billets en fonction de leurs dimensions. |
 
 ---
 
