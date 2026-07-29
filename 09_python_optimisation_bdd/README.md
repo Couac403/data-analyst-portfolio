@@ -7,10 +7,18 @@
 ## Présentation
 Etude du catalogue, analyse des ventes et réorganisation de la base de donnée d'une boutique.
 
+### **Extrait du rapport :**
+>
+![`presentation1.png`](./assets/presentation1.png)
+>
+![`presentation2.png`](./assets/presentation2.png)
+
 ## Contenu du dossier et téléchargements
 * [`notebook.ipynb`](./notebook.ipynb) : Notebook contenant l'ensemble du travail en Python.
 * [`notebook.pdf`](./notebook.pdf) : Notebook imprimable.
 * [`presentation.pdf`](./presentation.pdf) : Support de présentation.
+* [`presentation1.png`](./assets/presentation1.png) : Illustration de la présentation.
+* [`presentation2.png`](./assets/presentation2.png) : Illustration de la présentation.
 
 ## Compétences
 * **Techniques :** Python 
