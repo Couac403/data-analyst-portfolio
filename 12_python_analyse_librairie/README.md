@@ -5,7 +5,9 @@
 # Analyse des ventes d'une librairie
 
 ## Présentation
-Analyse statistique bivariée, test d'hypothèses et segmentation de la clientèle pour l'entreprise fictive Lapage.com.
+Analyse statistique bivariée, test d'hypothèses et segmentation de la clientèle.
+
+Un nouveau canal de vente qui a vite trouvé son public, Lapage doit maintenant apprendre à le connaitre afin d’adapter son offre de produits disponibles et orienter sa stratégie marketing dans le but de générer de la croissance.
 
 ### **Extrait du notebook en Python : Corrélation du genre et des catégories de livres**
 >
