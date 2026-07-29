@@ -14,7 +14,6 @@ Mise en corrélation des caractéristiques sociodémographiques et segmentation 
 ### **Extrait du rapport :**
 >
 ![`presentation.png`](./assets/presentation.png)
->
 
 ## Contenu du dossier et téléchargements
 * [`fichier.csv`](./fichier.csv) : Fichier CSV final extrait de Snowflakes.
