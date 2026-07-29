@@ -6,6 +6,8 @@
 
 ## Présentation
 Synthèse d'études et de suivis des outils et méthodes liés à la data analyse.
+Veille manuelle via GuitHub, Reddit, les newsletters ou Bluesky des outils que j'utilise ou que je compte tester.
+La date de dernière mise à jour est présente pour m'alerter si je vois que cela fait plusieurs mois.
 
 >![Aperçu CV Power BI](./assets/veille_pbi.png)
 
